@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1iubVFMOGzXM8iD7Mhti149d2eyFMqYat
 
 # 🌍 WTO成员身份与出口碳排放强度
-## ——基于2000-2020年面板数据的双重差分分析
+## ——基于1995-2025年面板数据的双重差分分析
 
 | 项目 | 内容 |
 |------|------|
 | **数据来源** | EDGAR v8.0 · World Bank WDI · WTO官网 |
 | **研究方法** | 双重差分法 (DiD) + 固定效应模型 |
-| **研究期间** | 2000–2020年 |
+| **研究期间** | 1995–2025年 |
 | **核心问题** | 加入WTO是否降低了出口碳排放强度？|
 
 ---
@@ -44,6 +44,11 @@ import warnings
 from scipy import stats
 from scipy.stats import t as t_dist
 warnings.filterwarnings('ignore')
+
+# ── 研究期间配置（全局参数）─────────────────────────────────────────────
+# 修改此处即可调整整个分析的研究期间，所有数据加载与可视化均会随之更新。
+START_YEAR = 1995   # 研究起始年份
+END_YEAR   = 2025   # 研究结束年份
 
 # ── 中文字体设置（Google Colab专用）─────────────────────────────────────
 # 方法1：优先使用WenQuanYi（简体中文支持最佳）
@@ -138,9 +143,9 @@ df_edgar = df_edgar.rename(columns={
     'Country': 'country_name'
 })
 
-# 提取2000-2020年的年份列
+# 提取研究期间（START_YEAR–END_YEAR）的年份列
 year_cols = [c for c in df_edgar.columns
-             if isinstance(c, (int, float)) and 2000 <= int(c) <= 2020]
+             if isinstance(c, (int, float)) and START_YEAR <= int(c) <= END_YEAR]
 
 # 转为长格式
 df_co2 = df_edgar[['iso3'] + year_cols].melt(
@@ -165,7 +170,7 @@ with zipfile.ZipFile('/content/API_NE.EXP.GNFS.CD_DS2_en_csv_v2_313730.zip') as 
 
 df_exp_raw = df_exp_raw.rename(columns={'Country Code': 'iso3'})
 yr_cols = [c for c in df_exp_raw.columns
-           if str(c).isdigit() and 1995 <= int(c) <= 2025]
+           if str(c).isdigit() and START_YEAR <= int(c) <= END_YEAR]
 
 df_exp = df_exp_raw[['iso3'] + yr_cols].melt(
     id_vars='iso3', var_name='year', value_name='export_usd')
@@ -189,7 +194,7 @@ df_wdi_raw = df_wdi_raw.dropna(subset=['Series Code'])
 
 yr_wdi = [c for c in df_wdi_raw.columns
           if 'YR' in str(c)
-          and 1995 <= int(c.split('[')[1].replace('YR','').replace(']','')) <= 2025]
+          and START_YEAR <= int(c.split('[')[1].replace('YR','').replace(']','')) <= END_YEAR]
 
 df_wdi_l = df_wdi_raw[['Country Code', 'Series Code'] + yr_wdi].melt(
     id_vars=['Country Code', 'Series Code'],
@@ -282,7 +287,7 @@ panel['wto_member'] = (
     panel['year_joined'].notna() &
     (panel['year'] >= panel['year_joined'])
 ).astype(int)
-panel['treated']    = (panel['year_joined'] > 1995).astype(int)  # 2000年后加入=处理组
+panel['treated']    = (panel['year_joined'] > 1995).astype(int)  # 1995年后加入=处理组
 panel['event_time'] = panel['year'] - panel['year_joined']        # 相对入世时间
 
 # 4. 添加控制变量
@@ -297,7 +302,7 @@ print(f'观测值数量 : {len(panel_clean):,}')
 print(f'国家数量   : {panel_clean["iso3"].nunique()}')
 print(f'研究期间   : {panel_clean["year"].min()}–{panel_clean["year"].max()}')
 print(f'WTO成员比例: {panel_clean["wto_member"].mean()*100:.1f}%')
-print(f'处理组国家 : {panel_clean[panel_clean["treated"]==1]["iso3"].nunique()}个（2000年后加入）')
+print(f'处理组国家 : {panel_clean[panel_clean["treated"]==1]["iso3"].nunique()}个（1995年后加入）')
 panel_clean[['iso3','year','co2_mt','export_usd','co2_intensity','ln_co2','wto_member']].head(5)
 
 """---
@@ -352,7 +357,7 @@ ax1.set_title('图1a  CO₂强度趋势：处理组 vs 控制组', **cn(12, bold
 ax1.set_xlabel('年份', **cn(11))
 ax1.set_ylabel('ln(CO₂强度)', **cn(11))
 ax1.legend(prop=fm.FontProperties(fname=FONT_PATH, size=9) if CN_FONT else None)
-ax1.set_xticks(range(2000, 2021, 4))
+ax1.set_xticks(range(START_YEAR, END_YEAR + 1, 5))
 
 # 右图：分布直方图
 ax2 = axes[1]
@@ -372,7 +377,7 @@ plt.savefig('图1_描述性统计.png', bbox_inches='tight', dpi=150)
 plt.show()
 print('✅ 已保存: 图1_描述性统计.png')
 
-# ── 图2: 主要国家CO₂强度变化（2000 vs 2020）────────────────────────────
+# ── 图2: 主要国家CO₂强度变化（START_YEAR vs END_YEAR）──────────────────
 focus_countries = {
     'CHN': '中国', 'IND': '印度', 'USA': '美国', 'DEU': '德国',
     'RUS': '俄罗斯', 'BRA': '巴西', 'ZAF': '南非', 'KOR': '韩国',
@@ -381,7 +386,7 @@ focus_countries = {
 
 plot_data = []
 for iso, name in focus_countries.items():
-    for yr in [2000, 2020]:
+    for yr in [START_YEAR, END_YEAR]:
         row = panel_clean[(panel_clean['iso3'] == iso) & (panel_clean['year'] == yr)]
         if not row.empty:
             plot_data.append({'国家': name, '年份': yr,
@@ -395,7 +400,7 @@ if not df_plot.empty:
     x = np.arange(len(countries))
     width = 0.35
 
-    for i, (yr, color) in enumerate([(2000, BLUE), (2020, RED)]):
+    for i, (yr, color) in enumerate([(START_YEAR, BLUE), (END_YEAR, RED)]):
         vals = [df_plot[(df_plot['国家']==c) & (df_plot['年份']==yr)]['CO₂强度'].values
                 for c in countries]
         vals = [v[0] if len(v) > 0 else 0 for v in vals]
@@ -406,7 +411,7 @@ if not df_plot.empty:
     cn_prop = fm.FontProperties(fname=FONT_PATH, size=10) if CN_FONT else None
     ax.set_xticklabels(countries,
                        fontproperties=cn_prop)
-    ax.set_title('图2  主要国家出口CO₂强度：2000年与2020年对比',
+    ax.set_title(f'图2  主要国家出口CO₂强度：{START_YEAR}年与{END_YEAR}年对比',
                  **cn(12, bold=True), pad=10)
     ax.set_ylabel('CO₂强度（吨/百万美元）', **cn(11))
     ax.legend(prop=fm.FontProperties(fname=FONT_PATH, size=10) if CN_FONT else None)
@@ -611,7 +616,7 @@ $$\ln(\text{CO}_2\text{强度}_{it}) = \sum_{\tau \neq -1} \delta_\tau \cdot \ma
 # ── 事件研究法 ────────────────────────────────────────────────────────
 T_MIN, T_MAX = -6, 6
 
-# 仅使用处理组（2000年后加入WTO的国家）
+# 仅使用处理组（1995年后加入WTO的国家）
 df_es = panel_clean[
     (panel_clean['treated'] == 1) &
     (panel_clean['event_time'] >= T_MIN) &
