@@ -3,7 +3,8 @@
 An Anki deck generator for the **Academic Word List** (Coxhead, 2000): all
 **570 word families**, with **every related word form as its own separate
 card** (analyse → *analysed, analyser, analysers, analyses, analysing,
-analysis, analyst, analytic, analytical, …*). That comes to **3,147 cards**.
+analysis, analyst, analytic, analytical, …*). After removing forms shared
+between families this comes to **3,110 unique cards**.
 
 Each card follows this layout:
 
