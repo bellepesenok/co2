@@ -1,0 +1,5999 @@
+[
+  {
+    "headword": "analyse",
+    "sublist": 1,
+    "related": [
+      "analysed",
+      "analyser",
+      "analysers",
+      "analyses",
+      "analysing",
+      "analysis",
+      "analyst",
+      "analysts",
+      "analytic",
+      "analytical",
+      "analytically",
+      "analyze",
+      "analyzed",
+      "analyzes",
+      "analyzing"
+    ]
+  },
+  {
+    "headword": "approach",
+    "sublist": 1,
+    "related": [
+      "approachable",
+      "approached",
+      "approaches",
+      "approaching",
+      "unapproachable"
+    ]
+  },
+  {
+    "headword": "area",
+    "sublist": 1,
+    "related": [
+      "areas"
+    ]
+  },
+  {
+    "headword": "assess",
+    "sublist": 1,
+    "related": [
+      "assessable",
+      "assessed",
+      "assesses",
+      "assessing",
+      "assessment",
+      "assessments",
+      "reassess",
+      "reassessed",
+      "reassessing",
+      "reassessment",
+      "unassessed"
+    ]
+  },
+  {
+    "headword": "assume",
+    "sublist": 1,
+    "related": [
+      "assumed",
+      "assumes",
+      "assuming",
+      "assumption",
+      "assumptions"
+    ]
+  },
+  {
+    "headword": "authority",
+    "sublist": 1,
+    "related": [
+      "authoritative",
+      "authorities"
+    ]
+  },
+  {
+    "headword": "available",
+    "sublist": 1,
+    "related": [
+      "availability",
+      "unavailable"
+    ]
+  },
+  {
+    "headword": "benefit",
+    "sublist": 1,
+    "related": [
+      "beneficial",
+      "beneficiaries",
+      "beneficiary",
+      "benefited",
+      "benefiting",
+      "benefits"
+    ]
+  },
+  {
+    "headword": "concept",
+    "sublist": 1,
+    "related": [
+      "conception",
+      "concepts",
+      "conceptual",
+      "conceptualisation",
+      "conceptualise",
+      "conceptualised",
+      "conceptualises",
+      "conceptualising",
+      "conceptually"
+    ]
+  },
+  {
+    "headword": "consist",
+    "sublist": 1,
+    "related": [
+      "consisted",
+      "consistency",
+      "consistent",
+      "consistently",
+      "consisting",
+      "consists",
+      "inconsistencies",
+      "inconsistency",
+      "inconsistent"
+    ]
+  },
+  {
+    "headword": "constitute",
+    "sublist": 1,
+    "related": [
+      "constituencies",
+      "constituency",
+      "constituent",
+      "constituents",
+      "constituted",
+      "constitutes",
+      "constituting",
+      "constitution",
+      "constitutional",
+      "constitutionally",
+      "constitutions",
+      "constitutive",
+      "unconstitutional"
+    ]
+  },
+  {
+    "headword": "context",
+    "sublist": 1,
+    "related": [
+      "contexts",
+      "contextual",
+      "contextualise",
+      "contextualised",
+      "contextualising",
+      "contextualize",
+      "contextualized",
+      "contextualizing",
+      "uncontextualised",
+      "uncontextualized"
+    ]
+  },
+  {
+    "headword": "contract",
+    "sublist": 1,
+    "related": [
+      "contracted",
+      "contracting",
+      "contractor",
+      "contractors",
+      "contracts"
+    ]
+  },
+  {
+    "headword": "create",
+    "sublist": 1,
+    "related": [
+      "created",
+      "creates",
+      "creating",
+      "creation",
+      "creations",
+      "creative",
+      "creatively",
+      "creativity",
+      "creator",
+      "creators",
+      "recreate",
+      "recreated",
+      "recreates",
+      "recreating"
+    ]
+  },
+  {
+    "headword": "data",
+    "sublist": 1,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "define",
+    "sublist": 1,
+    "related": [
+      "definable",
+      "defined",
+      "defines",
+      "defining",
+      "definition",
+      "definitions",
+      "redefine",
+      "redefined",
+      "redefines",
+      "redefining",
+      "undefined"
+    ]
+  },
+  {
+    "headword": "derive",
+    "sublist": 1,
+    "related": [
+      "derivation",
+      "derivations",
+      "derivative",
+      "derivatives",
+      "derived",
+      "derives",
+      "deriving"
+    ]
+  },
+  {
+    "headword": "distribute",
+    "sublist": 1,
+    "related": [
+      "distributed",
+      "distributing",
+      "distribution",
+      "distributional",
+      "distributions",
+      "distributive",
+      "distributor",
+      "distributors",
+      "redistribute",
+      "redistributed",
+      "redistributes",
+      "redistributing",
+      "redistribution"
+    ]
+  },
+  {
+    "headword": "economy",
+    "sublist": 1,
+    "related": [
+      "economic",
+      "economical",
+      "economically",
+      "economics",
+      "economies",
+      "economist",
+      "economists",
+      "uneconomical"
+    ]
+  },
+  {
+    "headword": "environment",
+    "sublist": 1,
+    "related": [
+      "environmental",
+      "environmentalist",
+      "environmentalists",
+      "environmentally",
+      "environments"
+    ]
+  },
+  {
+    "headword": "establish",
+    "sublist": 1,
+    "related": [
+      "disestablish",
+      "disestablished",
+      "disestablishes",
+      "disestablishing",
+      "disestablishment",
+      "established",
+      "establishes",
+      "establishing",
+      "establishment",
+      "establishments"
+    ]
+  },
+  {
+    "headword": "estimate",
+    "sublist": 1,
+    "related": [
+      "estimated",
+      "estimates",
+      "estimating",
+      "estimation",
+      "estimations",
+      "over-estimate",
+      "overestimate",
+      "overestimated",
+      "overestimates",
+      "overestimating",
+      "underestimate",
+      "underestimated",
+      "underestimates",
+      "underestimating"
+    ]
+  },
+  {
+    "headword": "evident",
+    "sublist": 1,
+    "related": [
+      "evidence",
+      "evidenced",
+      "evidential",
+      "evidently"
+    ]
+  },
+  {
+    "headword": "export",
+    "sublist": 1,
+    "related": [
+      "exported",
+      "exporter",
+      "exporters",
+      "exporting",
+      "exports"
+    ]
+  },
+  {
+    "headword": "factor",
+    "sublist": 1,
+    "related": [
+      "factored",
+      "factoring",
+      "factors"
+    ]
+  },
+  {
+    "headword": "finance",
+    "sublist": 1,
+    "related": [
+      "financed",
+      "finances",
+      "financial",
+      "financially",
+      "financier",
+      "financiers",
+      "financing"
+    ]
+  },
+  {
+    "headword": "formula",
+    "sublist": 1,
+    "related": [
+      "formulae",
+      "formulas",
+      "formulate",
+      "formulated",
+      "formulating",
+      "formulation",
+      "formulations",
+      "reformulate",
+      "reformulated",
+      "reformulating",
+      "reformulation",
+      "reformulations"
+    ]
+  },
+  {
+    "headword": "function",
+    "sublist": 1,
+    "related": [
+      "functional",
+      "functionally",
+      "functioned",
+      "functioning",
+      "functions"
+    ]
+  },
+  {
+    "headword": "identify",
+    "sublist": 1,
+    "related": [
+      "identifiable",
+      "identification",
+      "identified",
+      "identifies",
+      "identifying",
+      "identities",
+      "identity",
+      "unidentifiable"
+    ]
+  },
+  {
+    "headword": "income",
+    "sublist": 1,
+    "related": [
+      "incomes"
+    ]
+  },
+  {
+    "headword": "indicate",
+    "sublist": 1,
+    "related": [
+      "indicated",
+      "indicates",
+      "indicating",
+      "indication",
+      "indications",
+      "indicative",
+      "indicator",
+      "indicators"
+    ]
+  },
+  {
+    "headword": "individual",
+    "sublist": 1,
+    "related": [
+      "individualised",
+      "individualism",
+      "individualist",
+      "individualistic",
+      "individualists",
+      "individuality",
+      "individually",
+      "individuals"
+    ]
+  },
+  {
+    "headword": "interpret",
+    "sublist": 1,
+    "related": [
+      "interpretation",
+      "interpretations",
+      "interpretative",
+      "interpreted",
+      "interpreting",
+      "interpretive",
+      "interprets",
+      "misinterpret",
+      "misinterpretation",
+      "misinterpretations",
+      "misinterpreted",
+      "misinterpreting",
+      "misinterprets",
+      "reinterpret",
+      "reinterpretation",
+      "reinterpretations",
+      "reinterpreted",
+      "reinterpreting",
+      "reinterprets"
+    ]
+  },
+  {
+    "headword": "involve",
+    "sublist": 1,
+    "related": [
+      "involved",
+      "involvement",
+      "involves",
+      "involving",
+      "uninvolved"
+    ]
+  },
+  {
+    "headword": "issue",
+    "sublist": 1,
+    "related": [
+      "issued",
+      "issues",
+      "issuing"
+    ]
+  },
+  {
+    "headword": "labour",
+    "sublist": 1,
+    "related": [
+      "labor",
+      "labored",
+      "labors",
+      "laboured",
+      "labouring",
+      "labours"
+    ]
+  },
+  {
+    "headword": "legal",
+    "sublist": 1,
+    "related": [
+      "illegal",
+      "illegality",
+      "illegally",
+      "legality",
+      "legally"
+    ]
+  },
+  {
+    "headword": "legislate",
+    "sublist": 1,
+    "related": [
+      "legislated",
+      "legislates",
+      "legislating",
+      "legislation",
+      "legislative",
+      "legislator",
+      "legislators",
+      "legislature"
+    ]
+  },
+  {
+    "headword": "major",
+    "sublist": 1,
+    "related": [
+      "majorities",
+      "majority"
+    ]
+  },
+  {
+    "headword": "method",
+    "sublist": 1,
+    "related": [
+      "methodical",
+      "methodological",
+      "methodologies",
+      "methodology",
+      "methods"
+    ]
+  },
+  {
+    "headword": "occur",
+    "sublist": 1,
+    "related": [
+      "occurred",
+      "occurrence",
+      "occurrences",
+      "occurring",
+      "occurs",
+      "reoccur",
+      "reoccurred",
+      "reoccurring",
+      "reoccurs"
+    ]
+  },
+  {
+    "headword": "percent",
+    "sublist": 1,
+    "related": [
+      "percentage",
+      "percentages"
+    ]
+  },
+  {
+    "headword": "period",
+    "sublist": 1,
+    "related": [
+      "periodic",
+      "periodical",
+      "periodically",
+      "periodicals",
+      "periods"
+    ]
+  },
+  {
+    "headword": "policy",
+    "sublist": 1,
+    "related": [
+      "policies"
+    ]
+  },
+  {
+    "headword": "principle",
+    "sublist": 1,
+    "related": [
+      "principled",
+      "principles",
+      "unprincipled"
+    ]
+  },
+  {
+    "headword": "proceed",
+    "sublist": 1,
+    "related": [
+      "procedural",
+      "procedure",
+      "procedures",
+      "proceeded",
+      "proceeding",
+      "proceedings",
+      "proceeds"
+    ]
+  },
+  {
+    "headword": "process",
+    "sublist": 1,
+    "related": [
+      "processed",
+      "processes",
+      "processing"
+    ]
+  },
+  {
+    "headword": "require",
+    "sublist": 1,
+    "related": [
+      "required",
+      "requirement",
+      "requirements",
+      "requires",
+      "requiring"
+    ]
+  },
+  {
+    "headword": "research",
+    "sublist": 1,
+    "related": [
+      "researched",
+      "researcher",
+      "researchers",
+      "researches",
+      "researching"
+    ]
+  },
+  {
+    "headword": "respond",
+    "sublist": 1,
+    "related": [
+      "responded",
+      "respondent",
+      "respondents",
+      "responding",
+      "responds",
+      "response",
+      "responses",
+      "responsive",
+      "responsiveness",
+      "unresponsive"
+    ]
+  },
+  {
+    "headword": "role",
+    "sublist": 1,
+    "related": [
+      "roles"
+    ]
+  },
+  {
+    "headword": "section",
+    "sublist": 1,
+    "related": [
+      "sectioned",
+      "sectioning",
+      "sections"
+    ]
+  },
+  {
+    "headword": "sector",
+    "sublist": 1,
+    "related": [
+      "sectors"
+    ]
+  },
+  {
+    "headword": "significant",
+    "sublist": 1,
+    "related": [
+      "insignificant",
+      "insignificantly",
+      "significance",
+      "significantly",
+      "signified",
+      "signifies",
+      "signify",
+      "signifying"
+    ]
+  },
+  {
+    "headword": "similar",
+    "sublist": 1,
+    "related": [
+      "dissimilar",
+      "similarities",
+      "similarity",
+      "similarly"
+    ]
+  },
+  {
+    "headword": "source",
+    "sublist": 1,
+    "related": [
+      "sourced",
+      "sources",
+      "sourcing"
+    ]
+  },
+  {
+    "headword": "specific",
+    "sublist": 1,
+    "related": [
+      "specifically",
+      "specification",
+      "specifications",
+      "specificity",
+      "specifics"
+    ]
+  },
+  {
+    "headword": "structure",
+    "sublist": 1,
+    "related": [
+      "restructure",
+      "restructured",
+      "restructures",
+      "restructuring",
+      "structural",
+      "structurally",
+      "structured",
+      "structures",
+      "structuring",
+      "unstructured"
+    ]
+  },
+  {
+    "headword": "theory",
+    "sublist": 1,
+    "related": [
+      "theoretical",
+      "theoretically",
+      "theories",
+      "theorist",
+      "theorists"
+    ]
+  },
+  {
+    "headword": "vary",
+    "sublist": 1,
+    "related": [
+      "invariable",
+      "invariably",
+      "variability",
+      "variable",
+      "variables",
+      "variably",
+      "variance",
+      "variant",
+      "variants",
+      "variation",
+      "variations",
+      "varied",
+      "varies",
+      "varying"
+    ]
+  },
+  {
+    "headword": "achieve",
+    "sublist": 2,
+    "related": [
+      "achievable",
+      "achieved",
+      "achievement",
+      "achievements",
+      "achieves",
+      "achieving"
+    ]
+  },
+  {
+    "headword": "acquire",
+    "sublist": 2,
+    "related": [
+      "acquired",
+      "acquires",
+      "acquiring",
+      "acquisition",
+      "acquisitions"
+    ]
+  },
+  {
+    "headword": "administrate",
+    "sublist": 2,
+    "related": [
+      "administrates",
+      "administration",
+      "administrations",
+      "administrative",
+      "administratively",
+      "administrator",
+      "administrators"
+    ]
+  },
+  {
+    "headword": "affect",
+    "sublist": 2,
+    "related": [
+      "affected",
+      "affecting",
+      "affective",
+      "affectively",
+      "affects",
+      "unaffected"
+    ]
+  },
+  {
+    "headword": "appropriate",
+    "sublist": 2,
+    "related": [
+      "appropriacy",
+      "appropriately",
+      "appropriateness",
+      "inappropriacy",
+      "inappropriate",
+      "inappropriately"
+    ]
+  },
+  {
+    "headword": "aspect",
+    "sublist": 2,
+    "related": [
+      "aspects"
+    ]
+  },
+  {
+    "headword": "assist",
+    "sublist": 2,
+    "related": [
+      "assistance",
+      "assistant",
+      "assistants",
+      "assisted",
+      "assisting",
+      "assists",
+      "unassisted"
+    ]
+  },
+  {
+    "headword": "category",
+    "sublist": 2,
+    "related": [
+      "categories",
+      "categorisation",
+      "categorise",
+      "categorised",
+      "categorises",
+      "categorising",
+      "categorization",
+      "categorized",
+      "categorizes",
+      "categorizing"
+    ]
+  },
+  {
+    "headword": "chapter",
+    "sublist": 2,
+    "related": [
+      "chapters"
+    ]
+  },
+  {
+    "headword": "commission",
+    "sublist": 2,
+    "related": [
+      "commissioned",
+      "commissioner",
+      "commissioners",
+      "commissioning",
+      "commissions"
+    ]
+  },
+  {
+    "headword": "community",
+    "sublist": 2,
+    "related": [
+      "communities"
+    ]
+  },
+  {
+    "headword": "complex",
+    "sublist": 2,
+    "related": [
+      "complexities",
+      "complexity"
+    ]
+  },
+  {
+    "headword": "compute",
+    "sublist": 2,
+    "related": [
+      "computable",
+      "computation",
+      "computational",
+      "computations",
+      "computed",
+      "computer",
+      "computerised",
+      "computers",
+      "computing"
+    ]
+  },
+  {
+    "headword": "conclude",
+    "sublist": 2,
+    "related": [
+      "concluded",
+      "concludes",
+      "concluding",
+      "conclusion",
+      "conclusions",
+      "conclusive",
+      "conclusively",
+      "inconclusive",
+      "inconclusively"
+    ]
+  },
+  {
+    "headword": "conduct",
+    "sublist": 2,
+    "related": [
+      "conducted",
+      "conducting",
+      "conducts"
+    ]
+  },
+  {
+    "headword": "consequent",
+    "sublist": 2,
+    "related": [
+      "consequence",
+      "consequences",
+      "consequently"
+    ]
+  },
+  {
+    "headword": "construct",
+    "sublist": 2,
+    "related": [
+      "constructed",
+      "constructing",
+      "construction",
+      "constructions",
+      "constructive",
+      "constructs",
+      "reconstruct",
+      "reconstructed",
+      "reconstructing",
+      "reconstruction",
+      "reconstructs"
+    ]
+  },
+  {
+    "headword": "consume",
+    "sublist": 2,
+    "related": [
+      "consumed",
+      "consumer",
+      "consumers",
+      "consumes",
+      "consuming",
+      "consumption"
+    ]
+  },
+  {
+    "headword": "credit",
+    "sublist": 2,
+    "related": [
+      "credited",
+      "crediting",
+      "creditor",
+      "creditors",
+      "credits"
+    ]
+  },
+  {
+    "headword": "culture",
+    "sublist": 2,
+    "related": [
+      "cultural",
+      "culturally",
+      "cultured",
+      "cultures",
+      "uncultured"
+    ]
+  },
+  {
+    "headword": "design",
+    "sublist": 2,
+    "related": [
+      "designed",
+      "designer",
+      "designers",
+      "designing",
+      "designs"
+    ]
+  },
+  {
+    "headword": "distinct",
+    "sublist": 2,
+    "related": [
+      "distinction",
+      "distinctions",
+      "distinctive",
+      "distinctively",
+      "distinctly",
+      "indistinct",
+      "indistinctly"
+    ]
+  },
+  {
+    "headword": "element",
+    "sublist": 2,
+    "related": [
+      "elements"
+    ]
+  },
+  {
+    "headword": "equate",
+    "sublist": 2,
+    "related": [
+      "equated",
+      "equates",
+      "equating",
+      "equation",
+      "equations"
+    ]
+  },
+  {
+    "headword": "evaluate",
+    "sublist": 2,
+    "related": [
+      "evaluated",
+      "evaluates",
+      "evaluating",
+      "evaluation",
+      "evaluations",
+      "evaluative",
+      "re-evaluate",
+      "re-evaluated",
+      "re-evaluates",
+      "re-evaluating",
+      "re-evaluation"
+    ]
+  },
+  {
+    "headword": "feature",
+    "sublist": 2,
+    "related": [
+      "featured",
+      "features",
+      "featuring"
+    ]
+  },
+  {
+    "headword": "final",
+    "sublist": 2,
+    "related": [
+      "finalise",
+      "finalised",
+      "finalises",
+      "finalising",
+      "finality",
+      "finalize",
+      "finalized",
+      "finalizes",
+      "finalizing",
+      "finally",
+      "finals"
+    ]
+  },
+  {
+    "headword": "focus",
+    "sublist": 2,
+    "related": [
+      "focused",
+      "focuses",
+      "focusing",
+      "focussed",
+      "focussing",
+      "refocus",
+      "refocused",
+      "refocuses",
+      "refocusing",
+      "refocussed",
+      "refocusses",
+      "refocussing"
+    ]
+  },
+  {
+    "headword": "impact",
+    "sublist": 2,
+    "related": [
+      "impacted",
+      "impacting",
+      "impacts"
+    ]
+  },
+  {
+    "headword": "injure",
+    "sublist": 2,
+    "related": [
+      "injured",
+      "injures",
+      "injuries",
+      "injuring",
+      "injury",
+      "uninjured"
+    ]
+  },
+  {
+    "headword": "institute",
+    "sublist": 2,
+    "related": [
+      "instituted",
+      "institutes",
+      "instituting",
+      "institution",
+      "institutional",
+      "institutionalise",
+      "institutionalised",
+      "institutionalises",
+      "institutionalising",
+      "institutionalized",
+      "institutionalizes",
+      "institutionalizing",
+      "institutionally",
+      "institutions"
+    ]
+  },
+  {
+    "headword": "invest",
+    "sublist": 2,
+    "related": [
+      "invested",
+      "investing",
+      "investment",
+      "investments",
+      "investor",
+      "investors",
+      "invests",
+      "reinvest",
+      "reinvested",
+      "reinvesting",
+      "reinvestment",
+      "reinvests"
+    ]
+  },
+  {
+    "headword": "item",
+    "sublist": 2,
+    "related": [
+      "itemisation",
+      "itemise",
+      "itemised",
+      "itemises",
+      "itemising",
+      "items"
+    ]
+  },
+  {
+    "headword": "journal",
+    "sublist": 2,
+    "related": [
+      "journals"
+    ]
+  },
+  {
+    "headword": "maintain",
+    "sublist": 2,
+    "related": [
+      "maintained",
+      "maintaining",
+      "maintains",
+      "maintenance"
+    ]
+  },
+  {
+    "headword": "normal",
+    "sublist": 2,
+    "related": [
+      "abnormal",
+      "abnormally",
+      "normalisation",
+      "normalise",
+      "normalised",
+      "normalises",
+      "normalising",
+      "normality",
+      "normalization",
+      "normalize",
+      "normalized",
+      "normalizes",
+      "normalizing",
+      "normally"
+    ]
+  },
+  {
+    "headword": "obtain",
+    "sublist": 2,
+    "related": [
+      "obtainable",
+      "obtained",
+      "obtaining",
+      "obtains",
+      "unobtainable"
+    ]
+  },
+  {
+    "headword": "participate",
+    "sublist": 2,
+    "related": [
+      "participant",
+      "participants",
+      "participated",
+      "participates",
+      "participating",
+      "participation",
+      "participatory"
+    ]
+  },
+  {
+    "headword": "perceive",
+    "sublist": 2,
+    "related": [
+      "perceived",
+      "perceives",
+      "perceiving",
+      "perception",
+      "perceptions"
+    ]
+  },
+  {
+    "headword": "positive",
+    "sublist": 2,
+    "related": [
+      "positively"
+    ]
+  },
+  {
+    "headword": "potential",
+    "sublist": 2,
+    "related": [
+      "potentially"
+    ]
+  },
+  {
+    "headword": "previous",
+    "sublist": 2,
+    "related": [
+      "previously"
+    ]
+  },
+  {
+    "headword": "primary",
+    "sublist": 2,
+    "related": [
+      "primarily"
+    ]
+  },
+  {
+    "headword": "purchase",
+    "sublist": 2,
+    "related": [
+      "purchased",
+      "purchaser",
+      "purchasers",
+      "purchases",
+      "purchasing"
+    ]
+  },
+  {
+    "headword": "range",
+    "sublist": 2,
+    "related": [
+      "ranged",
+      "ranges",
+      "ranging"
+    ]
+  },
+  {
+    "headword": "region",
+    "sublist": 2,
+    "related": [
+      "regional",
+      "regionally",
+      "regions"
+    ]
+  },
+  {
+    "headword": "regulate",
+    "sublist": 2,
+    "related": [
+      "deregulated",
+      "deregulates",
+      "deregulating",
+      "deregulation",
+      "regulated",
+      "regulates",
+      "regulating",
+      "regulation",
+      "regulations",
+      "regulator",
+      "regulators",
+      "regulatory",
+      "unregulated"
+    ]
+  },
+  {
+    "headword": "relevant",
+    "sublist": 2,
+    "related": [
+      "irrelevance",
+      "irrelevant",
+      "relevance"
+    ]
+  },
+  {
+    "headword": "reside",
+    "sublist": 2,
+    "related": [
+      "resided",
+      "residence",
+      "resident",
+      "residential",
+      "residents",
+      "resides",
+      "residing"
+    ]
+  },
+  {
+    "headword": "resource",
+    "sublist": 2,
+    "related": [
+      "resourced",
+      "resourceful",
+      "resources",
+      "resourcing",
+      "under-resourced",
+      "unresourceful"
+    ]
+  },
+  {
+    "headword": "restrict",
+    "sublist": 2,
+    "related": [
+      "restricted",
+      "restricting",
+      "restriction",
+      "restrictions",
+      "restrictive",
+      "restrictively",
+      "restricts",
+      "unrestricted",
+      "unrestrictive"
+    ]
+  },
+  {
+    "headword": "secure",
+    "sublist": 2,
+    "related": [
+      "insecure",
+      "insecurities",
+      "insecurity",
+      "secured",
+      "securely",
+      "secures",
+      "securing",
+      "securities",
+      "security"
+    ]
+  },
+  {
+    "headword": "seek",
+    "sublist": 2,
+    "related": [
+      "seeking",
+      "seeks",
+      "sought"
+    ]
+  },
+  {
+    "headword": "select",
+    "sublist": 2,
+    "related": [
+      "selected",
+      "selecting",
+      "selection",
+      "selections",
+      "selective",
+      "selectively",
+      "selector",
+      "selectors",
+      "selects"
+    ]
+  },
+  {
+    "headword": "site",
+    "sublist": 2,
+    "related": [
+      "sites"
+    ]
+  },
+  {
+    "headword": "strategy",
+    "sublist": 2,
+    "related": [
+      "strategic",
+      "strategically",
+      "strategies",
+      "strategist",
+      "strategists"
+    ]
+  },
+  {
+    "headword": "survey",
+    "sublist": 2,
+    "related": [
+      "surveyed",
+      "surveying",
+      "surveys"
+    ]
+  },
+  {
+    "headword": "text",
+    "sublist": 2,
+    "related": [
+      "texts",
+      "textual"
+    ]
+  },
+  {
+    "headword": "tradition",
+    "sublist": 2,
+    "related": [
+      "non-traditional",
+      "traditional",
+      "traditionalist",
+      "traditionally",
+      "traditions"
+    ]
+  },
+  {
+    "headword": "transfer",
+    "sublist": 2,
+    "related": [
+      "transferable",
+      "transference",
+      "transferred",
+      "transferring",
+      "transfers"
+    ]
+  },
+  {
+    "headword": "alternative",
+    "sublist": 3,
+    "related": [
+      "alternatively",
+      "alternatives"
+    ]
+  },
+  {
+    "headword": "circumstance",
+    "sublist": 3,
+    "related": [
+      "circumstances"
+    ]
+  },
+  {
+    "headword": "comment",
+    "sublist": 3,
+    "related": [
+      "commentaries",
+      "commentary",
+      "commentator",
+      "commentators",
+      "commented",
+      "commenting",
+      "comments"
+    ]
+  },
+  {
+    "headword": "compensate",
+    "sublist": 3,
+    "related": [
+      "compensated",
+      "compensates",
+      "compensating",
+      "compensation",
+      "compensations",
+      "compensatory"
+    ]
+  },
+  {
+    "headword": "component",
+    "sublist": 3,
+    "related": [
+      "componentry",
+      "components"
+    ]
+  },
+  {
+    "headword": "consent",
+    "sublist": 3,
+    "related": [
+      "consensus",
+      "consented",
+      "consenting",
+      "consents"
+    ]
+  },
+  {
+    "headword": "considerable",
+    "sublist": 3,
+    "related": [
+      "considerably"
+    ]
+  },
+  {
+    "headword": "constant",
+    "sublist": 3,
+    "related": [
+      "constancy",
+      "constantly",
+      "constants",
+      "inconstancy",
+      "inconstantly"
+    ]
+  },
+  {
+    "headword": "constrain",
+    "sublist": 3,
+    "related": [
+      "constrained",
+      "constraining",
+      "constrains",
+      "constraint",
+      "constraints",
+      "unconstrained"
+    ]
+  },
+  {
+    "headword": "contribute",
+    "sublist": 3,
+    "related": [
+      "contributed",
+      "contributes",
+      "contributing",
+      "contribution",
+      "contributions",
+      "contributor",
+      "contributors"
+    ]
+  },
+  {
+    "headword": "convene",
+    "sublist": 3,
+    "related": [
+      "convened",
+      "convenes",
+      "convening",
+      "convention",
+      "conventional",
+      "conventionally",
+      "conventions",
+      "unconventional"
+    ]
+  },
+  {
+    "headword": "coordinate",
+    "sublist": 3,
+    "related": [
+      "co-ordinate",
+      "co-ordinated",
+      "co-ordinates",
+      "co-ordinating",
+      "co-ordination",
+      "co-ordinator",
+      "co-ordinators",
+      "coordinated",
+      "coordinates",
+      "coordinating",
+      "coordination",
+      "coordinator",
+      "coordinators"
+    ]
+  },
+  {
+    "headword": "core",
+    "sublist": 3,
+    "related": [
+      "cored",
+      "cores",
+      "coring"
+    ]
+  },
+  {
+    "headword": "corporate",
+    "sublist": 3,
+    "related": [
+      "corporates",
+      "corporation",
+      "corporations"
+    ]
+  },
+  {
+    "headword": "correspond",
+    "sublist": 3,
+    "related": [
+      "corresponded",
+      "correspondence",
+      "corresponding",
+      "correspondingly",
+      "corresponds"
+    ]
+  },
+  {
+    "headword": "criteria",
+    "sublist": 3,
+    "related": [
+      "criterion"
+    ]
+  },
+  {
+    "headword": "deduce",
+    "sublist": 3,
+    "related": [
+      "deduced",
+      "deduces",
+      "deducing",
+      "deduction",
+      "deductions"
+    ]
+  },
+  {
+    "headword": "demonstrate",
+    "sublist": 3,
+    "related": [
+      "demonstrable",
+      "demonstrably",
+      "demonstrated",
+      "demonstrates",
+      "demonstrating",
+      "demonstration",
+      "demonstrations",
+      "demonstrative",
+      "demonstratively",
+      "demonstrator",
+      "demonstrators"
+    ]
+  },
+  {
+    "headword": "document",
+    "sublist": 3,
+    "related": [
+      "documentation",
+      "documented",
+      "documenting",
+      "documents"
+    ]
+  },
+  {
+    "headword": "dominate",
+    "sublist": 3,
+    "related": [
+      "dominance",
+      "dominant",
+      "dominated",
+      "dominates",
+      "dominating",
+      "domination"
+    ]
+  },
+  {
+    "headword": "emphasis",
+    "sublist": 3,
+    "related": [
+      "emphasise",
+      "emphasised",
+      "emphasising",
+      "emphasize",
+      "emphasized",
+      "emphasizes",
+      "emphasizing",
+      "emphatic",
+      "emphatically"
+    ]
+  },
+  {
+    "headword": "ensure",
+    "sublist": 3,
+    "related": [
+      "ensured",
+      "ensures",
+      "ensuring"
+    ]
+  },
+  {
+    "headword": "exclude",
+    "sublist": 3,
+    "related": [
+      "excluded",
+      "excludes",
+      "excluding",
+      "exclusion",
+      "exclusionary",
+      "exclusionist",
+      "exclusions",
+      "exclusive",
+      "exclusively"
+    ]
+  },
+  {
+    "headword": "framework",
+    "sublist": 3,
+    "related": [
+      "frameworks"
+    ]
+  },
+  {
+    "headword": "fund",
+    "sublist": 3,
+    "related": [
+      "funded",
+      "funder",
+      "funders",
+      "funding",
+      "funds"
+    ]
+  },
+  {
+    "headword": "illustrate",
+    "sublist": 3,
+    "related": [
+      "illustrated",
+      "illustrates",
+      "illustrating",
+      "illustration",
+      "illustrations",
+      "illustrative"
+    ]
+  },
+  {
+    "headword": "immigrate",
+    "sublist": 3,
+    "related": [
+      "immigrant",
+      "immigrants",
+      "immigrated",
+      "immigrates",
+      "immigrating",
+      "immigration"
+    ]
+  },
+  {
+    "headword": "imply",
+    "sublist": 3,
+    "related": [
+      "implied",
+      "implies",
+      "implying"
+    ]
+  },
+  {
+    "headword": "initial",
+    "sublist": 3,
+    "related": [
+      "initially"
+    ]
+  },
+  {
+    "headword": "instance",
+    "sublist": 3,
+    "related": [
+      "instances"
+    ]
+  },
+  {
+    "headword": "interact",
+    "sublist": 3,
+    "related": [
+      "interacted",
+      "interacting",
+      "interaction",
+      "interactions",
+      "interactive",
+      "interactively",
+      "interacts"
+    ]
+  },
+  {
+    "headword": "justify",
+    "sublist": 3,
+    "related": [
+      "justifiable",
+      "justifiably",
+      "justification",
+      "justifications",
+      "justified",
+      "justifies",
+      "justifying",
+      "unjustified"
+    ]
+  },
+  {
+    "headword": "layer",
+    "sublist": 3,
+    "related": [
+      "layered",
+      "layering",
+      "layers"
+    ]
+  },
+  {
+    "headword": "link",
+    "sublist": 3,
+    "related": [
+      "linkage",
+      "linkages",
+      "linked",
+      "linking",
+      "links"
+    ]
+  },
+  {
+    "headword": "locate",
+    "sublist": 3,
+    "related": [
+      "located",
+      "locating",
+      "location",
+      "locations",
+      "relocate",
+      "relocated",
+      "relocates",
+      "relocating",
+      "relocation"
+    ]
+  },
+  {
+    "headword": "maximise",
+    "sublist": 3,
+    "related": [
+      "max",
+      "maximisation",
+      "maximised",
+      "maximises",
+      "maximising",
+      "maximization",
+      "maximize",
+      "maximized",
+      "maximizes",
+      "maximizing",
+      "maximum"
+    ]
+  },
+  {
+    "headword": "minor",
+    "sublist": 3,
+    "related": [
+      "minorities",
+      "minority",
+      "minors"
+    ]
+  },
+  {
+    "headword": "negate",
+    "sublist": 3,
+    "related": [
+      "negated",
+      "negates",
+      "negating",
+      "negative",
+      "negatively",
+      "negatives"
+    ]
+  },
+  {
+    "headword": "outcome",
+    "sublist": 3,
+    "related": [
+      "outcomes"
+    ]
+  },
+  {
+    "headword": "partner",
+    "sublist": 3,
+    "related": [
+      "partners",
+      "partnership",
+      "partnerships"
+    ]
+  },
+  {
+    "headword": "philosophy",
+    "sublist": 3,
+    "related": [
+      "philosopher",
+      "philosophers",
+      "philosophical",
+      "philosophically",
+      "philosophies",
+      "philosophise",
+      "philosophised",
+      "philosophises",
+      "philosophising",
+      "philosophize",
+      "philosophized",
+      "philosophizes",
+      "philosophizing"
+    ]
+  },
+  {
+    "headword": "physical",
+    "sublist": 3,
+    "related": [
+      "physically"
+    ]
+  },
+  {
+    "headword": "proportion",
+    "sublist": 3,
+    "related": [
+      "disproportion",
+      "disproportionate",
+      "disproportionately",
+      "proportional",
+      "proportionally",
+      "proportionate",
+      "proportionately",
+      "proportions"
+    ]
+  },
+  {
+    "headword": "publish",
+    "sublist": 3,
+    "related": [
+      "published",
+      "publisher",
+      "publishers",
+      "publishes",
+      "publishing",
+      "unpublished"
+    ]
+  },
+  {
+    "headword": "react",
+    "sublist": 3,
+    "related": [
+      "reacted",
+      "reacting",
+      "reaction",
+      "reactionaries",
+      "reactionary",
+      "reactions",
+      "reactivate",
+      "reactivation",
+      "reactive",
+      "reactor",
+      "reactors",
+      "reacts"
+    ]
+  },
+  {
+    "headword": "register",
+    "sublist": 3,
+    "related": [
+      "deregister",
+      "deregistered",
+      "deregistering",
+      "deregisters",
+      "deregistration",
+      "registered",
+      "registering",
+      "registers",
+      "registration"
+    ]
+  },
+  {
+    "headword": "rely",
+    "sublist": 3,
+    "related": [
+      "reliability",
+      "reliable",
+      "reliably",
+      "reliance",
+      "reliant",
+      "relied",
+      "relies",
+      "relying",
+      "unreliable"
+    ]
+  },
+  {
+    "headword": "remove",
+    "sublist": 3,
+    "related": [
+      "removable",
+      "removal",
+      "removals",
+      "removed",
+      "removes",
+      "removing"
+    ]
+  },
+  {
+    "headword": "scheme",
+    "sublist": 3,
+    "related": [
+      "schematic",
+      "schematically",
+      "schemed",
+      "schemes",
+      "scheming"
+    ]
+  },
+  {
+    "headword": "sequence",
+    "sublist": 3,
+    "related": [
+      "sequenced",
+      "sequences",
+      "sequencing",
+      "sequential",
+      "sequentially"
+    ]
+  },
+  {
+    "headword": "sex",
+    "sublist": 3,
+    "related": [
+      "sexes",
+      "sexism",
+      "sexual",
+      "sexuality",
+      "sexually"
+    ]
+  },
+  {
+    "headword": "shift",
+    "sublist": 3,
+    "related": [
+      "shifted",
+      "shifting",
+      "shifts"
+    ]
+  },
+  {
+    "headword": "specify",
+    "sublist": 3,
+    "related": [
+      "specifiable",
+      "specified",
+      "specifies",
+      "specifying",
+      "unspecified"
+    ]
+  },
+  {
+    "headword": "sufficient",
+    "sublist": 3,
+    "related": [
+      "insufficient",
+      "insufficiently",
+      "sufficiency",
+      "sufficiently"
+    ]
+  },
+  {
+    "headword": "task",
+    "sublist": 3,
+    "related": [
+      "tasks"
+    ]
+  },
+  {
+    "headword": "technical",
+    "sublist": 3,
+    "related": [
+      "technically"
+    ]
+  },
+  {
+    "headword": "technique",
+    "sublist": 3,
+    "related": [
+      "techniques"
+    ]
+  },
+  {
+    "headword": "technology",
+    "sublist": 3,
+    "related": [
+      "technological",
+      "technologically"
+    ]
+  },
+  {
+    "headword": "valid",
+    "sublist": 3,
+    "related": [
+      "invalidate",
+      "invalidity",
+      "validate",
+      "validated",
+      "validating",
+      "validation",
+      "validity",
+      "validly"
+    ]
+  },
+  {
+    "headword": "volume",
+    "sublist": 3,
+    "related": [
+      "volumes"
+    ]
+  },
+  {
+    "headword": "access",
+    "sublist": 4,
+    "related": [
+      "accessed",
+      "accesses",
+      "accessibility",
+      "accessible",
+      "accessing",
+      "inaccessible"
+    ]
+  },
+  {
+    "headword": "adequate",
+    "sublist": 4,
+    "related": [
+      "adequacy",
+      "adequately",
+      "inadequacies",
+      "inadequacy",
+      "inadequate",
+      "inadequately"
+    ]
+  },
+  {
+    "headword": "annual",
+    "sublist": 4,
+    "related": [
+      "annually"
+    ]
+  },
+  {
+    "headword": "apparent",
+    "sublist": 4,
+    "related": [
+      "apparently"
+    ]
+  },
+  {
+    "headword": "approximate",
+    "sublist": 4,
+    "related": [
+      "approximated",
+      "approximately",
+      "approximates",
+      "approximating",
+      "approximation",
+      "approximations"
+    ]
+  },
+  {
+    "headword": "attitude",
+    "sublist": 4,
+    "related": [
+      "attitudes"
+    ]
+  },
+  {
+    "headword": "attribute",
+    "sublist": 4,
+    "related": [
+      "attributable",
+      "attributed",
+      "attributes",
+      "attributing",
+      "attribution"
+    ]
+  },
+  {
+    "headword": "civil",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "code",
+    "sublist": 4,
+    "related": [
+      "coded",
+      "codes",
+      "coding"
+    ]
+  },
+  {
+    "headword": "commit",
+    "sublist": 4,
+    "related": [
+      "commitment",
+      "commitments",
+      "commits",
+      "committed",
+      "committing"
+    ]
+  },
+  {
+    "headword": "communicate",
+    "sublist": 4,
+    "related": [
+      "communicable",
+      "communicated",
+      "communicates",
+      "communicating",
+      "communication",
+      "communications",
+      "communicative",
+      "communicatively",
+      "uncommunicative"
+    ]
+  },
+  {
+    "headword": "concentrate",
+    "sublist": 4,
+    "related": [
+      "concentrated",
+      "concentrates",
+      "concentrating",
+      "concentration"
+    ]
+  },
+  {
+    "headword": "confer",
+    "sublist": 4,
+    "related": [
+      "conference",
+      "conferences",
+      "conferred",
+      "conferring",
+      "confers"
+    ]
+  },
+  {
+    "headword": "contrast",
+    "sublist": 4,
+    "related": [
+      "contrasted",
+      "contrasting",
+      "contrastive",
+      "contrasts"
+    ]
+  },
+  {
+    "headword": "cycle",
+    "sublist": 4,
+    "related": [
+      "cycled",
+      "cycles",
+      "cyclic",
+      "cyclical",
+      "cycling"
+    ]
+  },
+  {
+    "headword": "debate",
+    "sublist": 4,
+    "related": [
+      "debatable",
+      "debated",
+      "debates",
+      "debating"
+    ]
+  },
+  {
+    "headword": "despite",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "dimension",
+    "sublist": 4,
+    "related": [
+      "dimensional",
+      "dimensions",
+      "multidimensional"
+    ]
+  },
+  {
+    "headword": "domestic",
+    "sublist": 4,
+    "related": [
+      "domestically",
+      "domesticate",
+      "domesticated",
+      "domesticating",
+      "domestics"
+    ]
+  },
+  {
+    "headword": "emerge",
+    "sublist": 4,
+    "related": [
+      "emerged",
+      "emergence",
+      "emergent",
+      "emerges",
+      "emerging"
+    ]
+  },
+  {
+    "headword": "error",
+    "sublist": 4,
+    "related": [
+      "erroneous",
+      "erroneously",
+      "errors"
+    ]
+  },
+  {
+    "headword": "ethnic",
+    "sublist": 4,
+    "related": [
+      "ethnicity"
+    ]
+  },
+  {
+    "headword": "goal",
+    "sublist": 4,
+    "related": [
+      "goals"
+    ]
+  },
+  {
+    "headword": "grant",
+    "sublist": 4,
+    "related": [
+      "granted",
+      "granting",
+      "grants"
+    ]
+  },
+  {
+    "headword": "hence",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "hypothesis",
+    "sublist": 4,
+    "related": [
+      "hypotheses",
+      "hypothesise",
+      "hypothesised",
+      "hypothesises",
+      "hypothesising",
+      "hypothesize",
+      "hypothesized",
+      "hypothesizes",
+      "hypothesizing",
+      "hypothetical",
+      "hypothetically"
+    ]
+  },
+  {
+    "headword": "implement",
+    "sublist": 4,
+    "related": [
+      "implementation",
+      "implemented",
+      "implementing",
+      "implements"
+    ]
+  },
+  {
+    "headword": "implicate",
+    "sublist": 4,
+    "related": [
+      "implicated",
+      "implicates",
+      "implicating",
+      "implication",
+      "implications"
+    ]
+  },
+  {
+    "headword": "impose",
+    "sublist": 4,
+    "related": [
+      "imposed",
+      "imposes",
+      "imposing",
+      "imposition"
+    ]
+  },
+  {
+    "headword": "integrate",
+    "sublist": 4,
+    "related": [
+      "integrated",
+      "integrates",
+      "integrating",
+      "integration"
+    ]
+  },
+  {
+    "headword": "internal",
+    "sublist": 4,
+    "related": [
+      "internalise",
+      "internalised",
+      "internalises",
+      "internalising",
+      "internalize",
+      "internalized",
+      "internalizes",
+      "internalizing",
+      "internally"
+    ]
+  },
+  {
+    "headword": "investigate",
+    "sublist": 4,
+    "related": [
+      "investigated",
+      "investigates",
+      "investigating",
+      "investigation",
+      "investigations",
+      "investigative",
+      "investigator",
+      "investigators"
+    ]
+  },
+  {
+    "headword": "job",
+    "sublist": 4,
+    "related": [
+      "jobs"
+    ]
+  },
+  {
+    "headword": "label",
+    "sublist": 4,
+    "related": [
+      "labeled",
+      "labeling",
+      "labelled",
+      "labelling",
+      "labels"
+    ]
+  },
+  {
+    "headword": "mechanism",
+    "sublist": 4,
+    "related": [
+      "mechanisms"
+    ]
+  },
+  {
+    "headword": "obvious",
+    "sublist": 4,
+    "related": [
+      "obviously"
+    ]
+  },
+  {
+    "headword": "occupy",
+    "sublist": 4,
+    "related": [
+      "occupancy",
+      "occupant",
+      "occupants",
+      "occupation",
+      "occupational",
+      "occupations",
+      "occupied",
+      "occupier",
+      "occupiers",
+      "occupies",
+      "occupying"
+    ]
+  },
+  {
+    "headword": "option",
+    "sublist": 4,
+    "related": [
+      "optional",
+      "options"
+    ]
+  },
+  {
+    "headword": "output",
+    "sublist": 4,
+    "related": [
+      "outputs"
+    ]
+  },
+  {
+    "headword": "overall",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "parallel",
+    "sublist": 4,
+    "related": [
+      "paralleled",
+      "parallelled",
+      "parallelling",
+      "parallels",
+      "unparalleled"
+    ]
+  },
+  {
+    "headword": "parameter",
+    "sublist": 4,
+    "related": [
+      "parameters"
+    ]
+  },
+  {
+    "headword": "phase",
+    "sublist": 4,
+    "related": [
+      "phased",
+      "phases",
+      "phasing"
+    ]
+  },
+  {
+    "headword": "predict",
+    "sublist": 4,
+    "related": [
+      "predictability",
+      "predictable",
+      "predictably",
+      "predicted",
+      "predicting",
+      "prediction",
+      "predictions",
+      "predicts",
+      "unpredictability",
+      "unpredictable"
+    ]
+  },
+  {
+    "headword": "principal",
+    "sublist": 4,
+    "related": [
+      "principally"
+    ]
+  },
+  {
+    "headword": "prior",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "professional",
+    "sublist": 4,
+    "related": [
+      "professionalism",
+      "professionally",
+      "professionals"
+    ]
+  },
+  {
+    "headword": "project",
+    "sublist": 4,
+    "related": [
+      "projected",
+      "projecting",
+      "projection",
+      "projections",
+      "projects"
+    ]
+  },
+  {
+    "headword": "promote",
+    "sublist": 4,
+    "related": [
+      "promoted",
+      "promoter",
+      "promoters",
+      "promotes",
+      "promoting",
+      "promotion",
+      "promotions"
+    ]
+  },
+  {
+    "headword": "regime",
+    "sublist": 4,
+    "related": [
+      "regimes"
+    ]
+  },
+  {
+    "headword": "resolve",
+    "sublist": 4,
+    "related": [
+      "resolution",
+      "resolved",
+      "resolves",
+      "resolving",
+      "unresolved"
+    ]
+  },
+  {
+    "headword": "retain",
+    "sublist": 4,
+    "related": [
+      "retained",
+      "retainer",
+      "retainers",
+      "retaining",
+      "retains",
+      "retention",
+      "retentive"
+    ]
+  },
+  {
+    "headword": "series",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "statistic",
+    "sublist": 4,
+    "related": [
+      "statistical",
+      "statistically",
+      "statistician",
+      "statisticians",
+      "statistics"
+    ]
+  },
+  {
+    "headword": "status",
+    "sublist": 4,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "stress",
+    "sublist": 4,
+    "related": [
+      "stressed",
+      "stresses",
+      "stressful",
+      "stressing",
+      "unstressed"
+    ]
+  },
+  {
+    "headword": "subsequent",
+    "sublist": 4,
+    "related": [
+      "subsequently"
+    ]
+  },
+  {
+    "headword": "sum",
+    "sublist": 4,
+    "related": [
+      "summation",
+      "summed",
+      "summing",
+      "sums"
+    ]
+  },
+  {
+    "headword": "summary",
+    "sublist": 4,
+    "related": [
+      "summaries",
+      "summarisation",
+      "summarisations",
+      "summarise",
+      "summarised",
+      "summarises",
+      "summarising",
+      "summarization",
+      "summarizations",
+      "summarize",
+      "summarized",
+      "summarizes",
+      "summarizing"
+    ]
+  },
+  {
+    "headword": "undertake",
+    "sublist": 4,
+    "related": [
+      "undertaken",
+      "undertakes",
+      "undertaking",
+      "undertook"
+    ]
+  },
+  {
+    "headword": "academy",
+    "sublist": 5,
+    "related": [
+      "academia",
+      "academic",
+      "academically",
+      "academics",
+      "academies"
+    ]
+  },
+  {
+    "headword": "adjust",
+    "sublist": 5,
+    "related": [
+      "adjusted",
+      "adjusting",
+      "adjustment",
+      "adjustments",
+      "adjusts",
+      "readjust",
+      "readjusted",
+      "readjusting",
+      "readjustment",
+      "readjustments",
+      "readjusts"
+    ]
+  },
+  {
+    "headword": "alter",
+    "sublist": 5,
+    "related": [
+      "alterable",
+      "alteration",
+      "alterations",
+      "altered",
+      "altering",
+      "alternate",
+      "alternating",
+      "alters",
+      "unalterable",
+      "unaltered"
+    ]
+  },
+  {
+    "headword": "amend",
+    "sublist": 5,
+    "related": [
+      "amended",
+      "amending",
+      "amendment",
+      "amendments",
+      "amends"
+    ]
+  },
+  {
+    "headword": "aware",
+    "sublist": 5,
+    "related": [
+      "awareness",
+      "unaware"
+    ]
+  },
+  {
+    "headword": "capacity",
+    "sublist": 5,
+    "related": [
+      "capacities",
+      "incapacitate",
+      "incapacitated"
+    ]
+  },
+  {
+    "headword": "challenge",
+    "sublist": 5,
+    "related": [
+      "challenged",
+      "challenger",
+      "challengers",
+      "challenges",
+      "challenging"
+    ]
+  },
+  {
+    "headword": "clause",
+    "sublist": 5,
+    "related": [
+      "clauses"
+    ]
+  },
+  {
+    "headword": "compound",
+    "sublist": 5,
+    "related": [
+      "compounded",
+      "compounding",
+      "compounds"
+    ]
+  },
+  {
+    "headword": "conflict",
+    "sublist": 5,
+    "related": [
+      "conflicted",
+      "conflicting",
+      "conflicts"
+    ]
+  },
+  {
+    "headword": "consult",
+    "sublist": 5,
+    "related": [
+      "consultancy",
+      "consultant",
+      "consultants",
+      "consultation",
+      "consultations",
+      "consultative",
+      "consulted",
+      "consulting",
+      "consults"
+    ]
+  },
+  {
+    "headword": "contact",
+    "sublist": 5,
+    "related": [
+      "contactable",
+      "contacted",
+      "contacting",
+      "contacts"
+    ]
+  },
+  {
+    "headword": "decline",
+    "sublist": 5,
+    "related": [
+      "declined",
+      "declines",
+      "declining"
+    ]
+  },
+  {
+    "headword": "discrete",
+    "sublist": 5,
+    "related": [
+      "discretely",
+      "discretion",
+      "discretionary",
+      "indiscrete",
+      "indiscretion"
+    ]
+  },
+  {
+    "headword": "draft",
+    "sublist": 5,
+    "related": [
+      "drafted",
+      "drafting",
+      "drafts",
+      "redraft",
+      "redrafted",
+      "redrafting",
+      "redrafts"
+    ]
+  },
+  {
+    "headword": "enable",
+    "sublist": 5,
+    "related": [
+      "enabled",
+      "enables",
+      "enabling"
+    ]
+  },
+  {
+    "headword": "energy",
+    "sublist": 5,
+    "related": [
+      "energetic",
+      "energetically",
+      "energies"
+    ]
+  },
+  {
+    "headword": "enforce",
+    "sublist": 5,
+    "related": [
+      "enforced",
+      "enforcement",
+      "enforces",
+      "enforcing"
+    ]
+  },
+  {
+    "headword": "entity",
+    "sublist": 5,
+    "related": [
+      "entities"
+    ]
+  },
+  {
+    "headword": "equivalent",
+    "sublist": 5,
+    "related": [
+      "equivalence"
+    ]
+  },
+  {
+    "headword": "evolve",
+    "sublist": 5,
+    "related": [
+      "evolution",
+      "evolutionary",
+      "evolutionist",
+      "evolutionists",
+      "evolved",
+      "evolves",
+      "evolving"
+    ]
+  },
+  {
+    "headword": "expand",
+    "sublist": 5,
+    "related": [
+      "expanded",
+      "expanding",
+      "expands",
+      "expansion",
+      "expansionism",
+      "expansive"
+    ]
+  },
+  {
+    "headword": "expose",
+    "sublist": 5,
+    "related": [
+      "exposed",
+      "exposes",
+      "exposing",
+      "exposure",
+      "exposures"
+    ]
+  },
+  {
+    "headword": "external",
+    "sublist": 5,
+    "related": [
+      "externalisation",
+      "externalise",
+      "externalised",
+      "externalises",
+      "externalising",
+      "externality",
+      "externalization",
+      "externalize",
+      "externalized",
+      "externalizes",
+      "externalizing",
+      "externally"
+    ]
+  },
+  {
+    "headword": "facilitate",
+    "sublist": 5,
+    "related": [
+      "facilitated",
+      "facilitates",
+      "facilitating",
+      "facilitation",
+      "facilitator",
+      "facilitators",
+      "facilities",
+      "facility"
+    ]
+  },
+  {
+    "headword": "fundamental",
+    "sublist": 5,
+    "related": [
+      "fundamentally"
+    ]
+  },
+  {
+    "headword": "generate",
+    "sublist": 5,
+    "related": [
+      "generated",
+      "generates",
+      "generating"
+    ]
+  },
+  {
+    "headword": "generation",
+    "sublist": 5,
+    "related": [
+      "generations"
+    ]
+  },
+  {
+    "headword": "image",
+    "sublist": 5,
+    "related": [
+      "imagery",
+      "images"
+    ]
+  },
+  {
+    "headword": "liberal",
+    "sublist": 5,
+    "related": [
+      "liberalisation",
+      "liberalise",
+      "liberalised",
+      "liberalises",
+      "liberalising",
+      "liberalism",
+      "liberalization",
+      "liberalize",
+      "liberalized",
+      "liberalizes",
+      "liberalizing",
+      "liberally",
+      "liberate",
+      "liberated",
+      "liberates",
+      "liberating",
+      "liberation",
+      "liberations",
+      "liberator",
+      "liberators"
+    ]
+  },
+  {
+    "headword": "licence",
+    "sublist": 5,
+    "related": [
+      "licences",
+      "license",
+      "licensed",
+      "licenses",
+      "licensing",
+      "unlicensed"
+    ]
+  },
+  {
+    "headword": "logic",
+    "sublist": 5,
+    "related": [
+      "illogical",
+      "illogically",
+      "logical",
+      "logically",
+      "logician",
+      "logicians"
+    ]
+  },
+  {
+    "headword": "margin",
+    "sublist": 5,
+    "related": [
+      "marginal",
+      "marginally",
+      "margins"
+    ]
+  },
+  {
+    "headword": "medical",
+    "sublist": 5,
+    "related": [
+      "medically"
+    ]
+  },
+  {
+    "headword": "mental",
+    "sublist": 5,
+    "related": [
+      "mentality",
+      "mentally"
+    ]
+  },
+  {
+    "headword": "modify",
+    "sublist": 5,
+    "related": [
+      "modification",
+      "modifications",
+      "modified",
+      "modifies",
+      "modifying",
+      "unmodified"
+    ]
+  },
+  {
+    "headword": "monitor",
+    "sublist": 5,
+    "related": [
+      "monitored",
+      "monitoring",
+      "monitors",
+      "unmonitored"
+    ]
+  },
+  {
+    "headword": "network",
+    "sublist": 5,
+    "related": [
+      "networked",
+      "networking",
+      "networks"
+    ]
+  },
+  {
+    "headword": "notion",
+    "sublist": 5,
+    "related": [
+      "notions"
+    ]
+  },
+  {
+    "headword": "objective",
+    "sublist": 5,
+    "related": [
+      "objectively",
+      "objectivity"
+    ]
+  },
+  {
+    "headword": "orient",
+    "sublist": 5,
+    "related": [
+      "orientate",
+      "orientated",
+      "orientates",
+      "orientating",
+      "orientation",
+      "oriented",
+      "orienting",
+      "orients",
+      "reorient",
+      "reorientation"
+    ]
+  },
+  {
+    "headword": "perspective",
+    "sublist": 5,
+    "related": [
+      "perspectives"
+    ]
+  },
+  {
+    "headword": "precise",
+    "sublist": 5,
+    "related": [
+      "imprecise",
+      "precisely",
+      "precision"
+    ]
+  },
+  {
+    "headword": "prime",
+    "sublist": 5,
+    "related": [
+      "primacy"
+    ]
+  },
+  {
+    "headword": "psychology",
+    "sublist": 5,
+    "related": [
+      "psychological",
+      "psychologically",
+      "psychologist",
+      "psychologists"
+    ]
+  },
+  {
+    "headword": "pursue",
+    "sublist": 5,
+    "related": [
+      "pursued",
+      "pursues",
+      "pursuing",
+      "pursuit",
+      "pursuits"
+    ]
+  },
+  {
+    "headword": "ratio",
+    "sublist": 5,
+    "related": [
+      "ratios"
+    ]
+  },
+  {
+    "headword": "reject",
+    "sublist": 5,
+    "related": [
+      "rejected",
+      "rejecting",
+      "rejection",
+      "rejections",
+      "rejects"
+    ]
+  },
+  {
+    "headword": "revenue",
+    "sublist": 5,
+    "related": [
+      "revenues"
+    ]
+  },
+  {
+    "headword": "stable",
+    "sublist": 5,
+    "related": [
+      "instability",
+      "stabilisation",
+      "stabilise",
+      "stabilised",
+      "stabilises",
+      "stabilising",
+      "stability",
+      "stabilization",
+      "stabilize",
+      "stabilized",
+      "stabilizes",
+      "stabilizing",
+      "unstable"
+    ]
+  },
+  {
+    "headword": "style",
+    "sublist": 5,
+    "related": [
+      "styled",
+      "styles",
+      "styling",
+      "stylise",
+      "stylised",
+      "stylises",
+      "stylish",
+      "stylising",
+      "stylize",
+      "stylized",
+      "stylizes",
+      "stylizing"
+    ]
+  },
+  {
+    "headword": "substitute",
+    "sublist": 5,
+    "related": [
+      "substituted",
+      "substitutes",
+      "substituting",
+      "substitution"
+    ]
+  },
+  {
+    "headword": "sustain",
+    "sublist": 5,
+    "related": [
+      "sustainability",
+      "sustainable",
+      "sustained",
+      "sustaining",
+      "sustains",
+      "sustenance",
+      "unsustainable"
+    ]
+  },
+  {
+    "headword": "symbol",
+    "sublist": 5,
+    "related": [
+      "symbolic",
+      "symbolically",
+      "symbolise",
+      "symbolised",
+      "symbolises",
+      "symbolising",
+      "symbolism",
+      "symbolize",
+      "symbolized",
+      "symbolizes",
+      "symbolizing",
+      "symbols"
+    ]
+  },
+  {
+    "headword": "target",
+    "sublist": 5,
+    "related": [
+      "targeted",
+      "targeting",
+      "targets"
+    ]
+  },
+  {
+    "headword": "transit",
+    "sublist": 5,
+    "related": [
+      "transited",
+      "transiting",
+      "transition",
+      "transitional",
+      "transitions",
+      "transitory",
+      "transits"
+    ]
+  },
+  {
+    "headword": "trend",
+    "sublist": 5,
+    "related": [
+      "trends"
+    ]
+  },
+  {
+    "headword": "version",
+    "sublist": 5,
+    "related": [
+      "versions"
+    ]
+  },
+  {
+    "headword": "welfare",
+    "sublist": 5,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "whereas",
+    "sublist": 5,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "abstract",
+    "sublist": 6,
+    "related": [
+      "abstraction",
+      "abstractions",
+      "abstractly",
+      "abstracts"
+    ]
+  },
+  {
+    "headword": "accurate",
+    "sublist": 6,
+    "related": [
+      "accuracy",
+      "accurately",
+      "inaccuracies",
+      "inaccuracy",
+      "inaccurate"
+    ]
+  },
+  {
+    "headword": "acknowledge",
+    "sublist": 6,
+    "related": [
+      "acknowledged",
+      "acknowledgement",
+      "acknowledgements",
+      "acknowledges",
+      "acknowledging"
+    ]
+  },
+  {
+    "headword": "aggregate",
+    "sublist": 6,
+    "related": [
+      "aggregated",
+      "aggregates",
+      "aggregating",
+      "aggregation"
+    ]
+  },
+  {
+    "headword": "allocate",
+    "sublist": 6,
+    "related": [
+      "allocated",
+      "allocates",
+      "allocating",
+      "allocation",
+      "allocations"
+    ]
+  },
+  {
+    "headword": "assign",
+    "sublist": 6,
+    "related": [
+      "assigned",
+      "assigning",
+      "assignment",
+      "assignments",
+      "assigns",
+      "reassign",
+      "reassigned",
+      "reassigning",
+      "reassigns",
+      "unassigned"
+    ]
+  },
+  {
+    "headword": "attach",
+    "sublist": 6,
+    "related": [
+      "attached",
+      "attaches",
+      "attaching",
+      "attachment",
+      "attachments",
+      "unattached"
+    ]
+  },
+  {
+    "headword": "author",
+    "sublist": 6,
+    "related": [
+      "authored",
+      "authoring",
+      "authors",
+      "authorship"
+    ]
+  },
+  {
+    "headword": "bond",
+    "sublist": 6,
+    "related": [
+      "bonded",
+      "bonding",
+      "bonds"
+    ]
+  },
+  {
+    "headword": "brief",
+    "sublist": 6,
+    "related": [
+      "brevity",
+      "briefed",
+      "briefing",
+      "briefly",
+      "briefs"
+    ]
+  },
+  {
+    "headword": "capable",
+    "sublist": 6,
+    "related": [
+      "capabilities",
+      "capability",
+      "incapable"
+    ]
+  },
+  {
+    "headword": "cite",
+    "sublist": 6,
+    "related": [
+      "citation",
+      "citations",
+      "cited",
+      "cites",
+      "citing"
+    ]
+  },
+  {
+    "headword": "cooperate",
+    "sublist": 6,
+    "related": [
+      "co-operate",
+      "co-operated",
+      "co-operates",
+      "co-operation",
+      "co-operative",
+      "co-operatively",
+      "cooperated",
+      "cooperates",
+      "cooperating",
+      "cooperation",
+      "cooperative",
+      "cooperatively"
+    ]
+  },
+  {
+    "headword": "discriminate",
+    "sublist": 6,
+    "related": [
+      "discriminated",
+      "discriminates",
+      "discriminating",
+      "discrimination"
+    ]
+  },
+  {
+    "headword": "display",
+    "sublist": 6,
+    "related": [
+      "displayed",
+      "displaying",
+      "displays"
+    ]
+  },
+  {
+    "headword": "diverse",
+    "sublist": 6,
+    "related": [
+      "diversely",
+      "diversification",
+      "diversified",
+      "diversifies",
+      "diversify",
+      "diversifying",
+      "diversity"
+    ]
+  },
+  {
+    "headword": "domain",
+    "sublist": 6,
+    "related": [
+      "domains"
+    ]
+  },
+  {
+    "headword": "edit",
+    "sublist": 6,
+    "related": [
+      "edited",
+      "editing",
+      "edition",
+      "editions",
+      "editor",
+      "editorial",
+      "editorials",
+      "editors",
+      "edits"
+    ]
+  },
+  {
+    "headword": "enhance",
+    "sublist": 6,
+    "related": [
+      "enhanced",
+      "enhancement",
+      "enhances",
+      "enhancing"
+    ]
+  },
+  {
+    "headword": "estate",
+    "sublist": 6,
+    "related": [
+      "estates"
+    ]
+  },
+  {
+    "headword": "exceed",
+    "sublist": 6,
+    "related": [
+      "exceeded",
+      "exceeding",
+      "exceeds"
+    ]
+  },
+  {
+    "headword": "expert",
+    "sublist": 6,
+    "related": [
+      "expertise",
+      "expertly",
+      "experts"
+    ]
+  },
+  {
+    "headword": "explicit",
+    "sublist": 6,
+    "related": [
+      "explicitly"
+    ]
+  },
+  {
+    "headword": "federal",
+    "sublist": 6,
+    "related": [
+      "federation",
+      "federations"
+    ]
+  },
+  {
+    "headword": "fee",
+    "sublist": 6,
+    "related": [
+      "fees"
+    ]
+  },
+  {
+    "headword": "flexible",
+    "sublist": 6,
+    "related": [
+      "flexibility",
+      "inflexibility",
+      "inflexible"
+    ]
+  },
+  {
+    "headword": "furthermore",
+    "sublist": 6,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "gender",
+    "sublist": 6,
+    "related": [
+      "genders"
+    ]
+  },
+  {
+    "headword": "ignorant",
+    "sublist": 6,
+    "related": [
+      "ignorance",
+      "ignore",
+      "ignored",
+      "ignores",
+      "ignoring"
+    ]
+  },
+  {
+    "headword": "incentive",
+    "sublist": 6,
+    "related": [
+      "incentives"
+    ]
+  },
+  {
+    "headword": "incidence",
+    "sublist": 6,
+    "related": [
+      "incident",
+      "incidentally",
+      "incidents"
+    ]
+  },
+  {
+    "headword": "incorporate",
+    "sublist": 6,
+    "related": [
+      "incorporated",
+      "incorporates",
+      "incorporating",
+      "incorporation"
+    ]
+  },
+  {
+    "headword": "index",
+    "sublist": 6,
+    "related": [
+      "indexed",
+      "indexes",
+      "indexing"
+    ]
+  },
+  {
+    "headword": "inhibit",
+    "sublist": 6,
+    "related": [
+      "inhibited",
+      "inhibiting",
+      "inhibition",
+      "inhibitions",
+      "inhibits"
+    ]
+  },
+  {
+    "headword": "initiate",
+    "sublist": 6,
+    "related": [
+      "initiated",
+      "initiates",
+      "initiating",
+      "initiation",
+      "initiations",
+      "initiative",
+      "initiatives",
+      "initiator",
+      "initiators"
+    ]
+  },
+  {
+    "headword": "input",
+    "sublist": 6,
+    "related": [
+      "inputs"
+    ]
+  },
+  {
+    "headword": "instruct",
+    "sublist": 6,
+    "related": [
+      "instructed",
+      "instructing",
+      "instruction",
+      "instructions",
+      "instructive",
+      "instructor",
+      "instructors",
+      "instructs"
+    ]
+  },
+  {
+    "headword": "intelligent",
+    "sublist": 6,
+    "related": [
+      "intelligence",
+      "intelligently",
+      "unintelligent"
+    ]
+  },
+  {
+    "headword": "interval",
+    "sublist": 6,
+    "related": [
+      "intervals"
+    ]
+  },
+  {
+    "headword": "lecture",
+    "sublist": 6,
+    "related": [
+      "lectured",
+      "lecturer",
+      "lecturers",
+      "lectures",
+      "lecturing"
+    ]
+  },
+  {
+    "headword": "migrate",
+    "sublist": 6,
+    "related": [
+      "migrant",
+      "migrants",
+      "migrated",
+      "migrates",
+      "migrating",
+      "migration",
+      "migrations",
+      "migratory"
+    ]
+  },
+  {
+    "headword": "minimum",
+    "sublist": 6,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "ministry",
+    "sublist": 6,
+    "related": [
+      "ministered",
+      "ministerial",
+      "ministering",
+      "ministries"
+    ]
+  },
+  {
+    "headword": "motive",
+    "sublist": 6,
+    "related": [
+      "motivate",
+      "motivated",
+      "motivates",
+      "motivating",
+      "motivation",
+      "motivations",
+      "motives",
+      "unmotivated"
+    ]
+  },
+  {
+    "headword": "neutral",
+    "sublist": 6,
+    "related": [
+      "neutralisation",
+      "neutralise",
+      "neutralised",
+      "neutralises",
+      "neutralising",
+      "neutrality",
+      "neutralization",
+      "neutralize",
+      "neutralized",
+      "neutralizes",
+      "neutralizing"
+    ]
+  },
+  {
+    "headword": "nevertheless",
+    "sublist": 6,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "overseas",
+    "sublist": 6,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "precede",
+    "sublist": 6,
+    "related": [
+      "preceded",
+      "precedence",
+      "precedent",
+      "precedes",
+      "preceding",
+      "unprecedented"
+    ]
+  },
+  {
+    "headword": "presume",
+    "sublist": 6,
+    "related": [
+      "presumably",
+      "presumed",
+      "presumes",
+      "presuming",
+      "presumption",
+      "presumptions",
+      "presumptuous"
+    ]
+  },
+  {
+    "headword": "rational",
+    "sublist": 6,
+    "related": [
+      "irrational",
+      "rationalisation",
+      "rationalisations",
+      "rationalise",
+      "rationalised",
+      "rationalises",
+      "rationalising",
+      "rationalism",
+      "rationality",
+      "rationalization",
+      "rationalizations",
+      "rationalize",
+      "rationalized",
+      "rationalizes",
+      "rationally"
+    ]
+  },
+  {
+    "headword": "recover",
+    "sublist": 6,
+    "related": [
+      "recoverable",
+      "recovered",
+      "recovering",
+      "recovers",
+      "recovery"
+    ]
+  },
+  {
+    "headword": "reveal",
+    "sublist": 6,
+    "related": [
+      "revealed",
+      "revealing",
+      "reveals",
+      "revelation",
+      "revelations"
+    ]
+  },
+  {
+    "headword": "scope",
+    "sublist": 6,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "subsidy",
+    "sublist": 6,
+    "related": [
+      "subsidiary",
+      "subsidies",
+      "subsidise",
+      "subsidised",
+      "subsidises",
+      "subsidising",
+      "subsidize",
+      "subsidized",
+      "subsidizes",
+      "subsidizing"
+    ]
+  },
+  {
+    "headword": "tape",
+    "sublist": 6,
+    "related": [
+      "taped",
+      "tapes",
+      "taping"
+    ]
+  },
+  {
+    "headword": "trace",
+    "sublist": 6,
+    "related": [
+      "traceable",
+      "traced",
+      "traces",
+      "tracing"
+    ]
+  },
+  {
+    "headword": "transform",
+    "sublist": 6,
+    "related": [
+      "transformation",
+      "transformations",
+      "transformed",
+      "transforming",
+      "transforms"
+    ]
+  },
+  {
+    "headword": "transport",
+    "sublist": 6,
+    "related": [
+      "transportation",
+      "transported",
+      "transporter",
+      "transporters",
+      "transporting",
+      "transports"
+    ]
+  },
+  {
+    "headword": "underlie",
+    "sublist": 6,
+    "related": [
+      "underlay",
+      "underlies",
+      "underlying"
+    ]
+  },
+  {
+    "headword": "utilise",
+    "sublist": 6,
+    "related": [
+      "utilisation",
+      "utilised",
+      "utiliser",
+      "utilisers",
+      "utilises",
+      "utilising",
+      "utilities",
+      "utility",
+      "utilization",
+      "utilize",
+      "utilized",
+      "utilizes",
+      "utilizing"
+    ]
+  },
+  {
+    "headword": "adapt",
+    "sublist": 7,
+    "related": [
+      "adaptability",
+      "adaptable",
+      "adaptation",
+      "adaptations",
+      "adapted",
+      "adapting",
+      "adaptive",
+      "adapts"
+    ]
+  },
+  {
+    "headword": "adult",
+    "sublist": 7,
+    "related": [
+      "adulthood",
+      "adults"
+    ]
+  },
+  {
+    "headword": "advocate",
+    "sublist": 7,
+    "related": [
+      "advocacy",
+      "advocated",
+      "advocates",
+      "advocating"
+    ]
+  },
+  {
+    "headword": "aid",
+    "sublist": 7,
+    "related": [
+      "aided",
+      "aiding",
+      "aids",
+      "unaided"
+    ]
+  },
+  {
+    "headword": "channel",
+    "sublist": 7,
+    "related": [
+      "channelled",
+      "channelling",
+      "channels"
+    ]
+  },
+  {
+    "headword": "chemical",
+    "sublist": 7,
+    "related": [
+      "chemically",
+      "chemicals"
+    ]
+  },
+  {
+    "headword": "classic",
+    "sublist": 7,
+    "related": [
+      "classical",
+      "classics"
+    ]
+  },
+  {
+    "headword": "comprehensive",
+    "sublist": 7,
+    "related": [
+      "comprehensively"
+    ]
+  },
+  {
+    "headword": "comprise",
+    "sublist": 7,
+    "related": [
+      "comprised",
+      "comprises",
+      "comprising"
+    ]
+  },
+  {
+    "headword": "confirm",
+    "sublist": 7,
+    "related": [
+      "confirmation",
+      "confirmed",
+      "confirming",
+      "confirms"
+    ]
+  },
+  {
+    "headword": "contrary",
+    "sublist": 7,
+    "related": [
+      "contrarily"
+    ]
+  },
+  {
+    "headword": "convert",
+    "sublist": 7,
+    "related": [
+      "conversion",
+      "conversions",
+      "converted",
+      "convertible",
+      "converting",
+      "converts"
+    ]
+  },
+  {
+    "headword": "couple",
+    "sublist": 7,
+    "related": [
+      "coupled",
+      "couples",
+      "coupling"
+    ]
+  },
+  {
+    "headword": "decade",
+    "sublist": 7,
+    "related": [
+      "decades"
+    ]
+  },
+  {
+    "headword": "definite",
+    "sublist": 7,
+    "related": [
+      "definitely",
+      "definitive",
+      "indefinite",
+      "indefinitely"
+    ]
+  },
+  {
+    "headword": "deny",
+    "sublist": 7,
+    "related": [
+      "deniable",
+      "denial",
+      "denials",
+      "denied",
+      "denies",
+      "denying",
+      "undeniable"
+    ]
+  },
+  {
+    "headword": "differentiate",
+    "sublist": 7,
+    "related": [
+      "differentiated",
+      "differentiates",
+      "differentiating",
+      "differentiation"
+    ]
+  },
+  {
+    "headword": "dispose",
+    "sublist": 7,
+    "related": [
+      "disposable",
+      "disposal",
+      "disposed",
+      "disposes",
+      "disposing"
+    ]
+  },
+  {
+    "headword": "dynamic",
+    "sublist": 7,
+    "related": [
+      "dynamically",
+      "dynamics"
+    ]
+  },
+  {
+    "headword": "eliminate",
+    "sublist": 7,
+    "related": [
+      "eliminated",
+      "eliminates",
+      "eliminating",
+      "elimination"
+    ]
+  },
+  {
+    "headword": "empirical",
+    "sublist": 7,
+    "related": [
+      "empirically",
+      "empiricism"
+    ]
+  },
+  {
+    "headword": "equip",
+    "sublist": 7,
+    "related": [
+      "equipment",
+      "equipped",
+      "equipping",
+      "equips"
+    ]
+  },
+  {
+    "headword": "extract",
+    "sublist": 7,
+    "related": [
+      "extracted",
+      "extracting",
+      "extraction",
+      "extracts"
+    ]
+  },
+  {
+    "headword": "file",
+    "sublist": 7,
+    "related": [
+      "filed",
+      "files",
+      "filing"
+    ]
+  },
+  {
+    "headword": "finite",
+    "sublist": 7,
+    "related": [
+      "infinite",
+      "infinitely"
+    ]
+  },
+  {
+    "headword": "foundation",
+    "sublist": 7,
+    "related": [
+      "foundations"
+    ]
+  },
+  {
+    "headword": "globe",
+    "sublist": 7,
+    "related": [
+      "global",
+      "globalisation",
+      "globalization",
+      "globally"
+    ]
+  },
+  {
+    "headword": "grade",
+    "sublist": 7,
+    "related": [
+      "graded",
+      "grades",
+      "grading"
+    ]
+  },
+  {
+    "headword": "guarantee",
+    "sublist": 7,
+    "related": [
+      "guaranteed",
+      "guaranteeing",
+      "guarantees"
+    ]
+  },
+  {
+    "headword": "hierarchy",
+    "sublist": 7,
+    "related": [
+      "hierarchical",
+      "hierarchies"
+    ]
+  },
+  {
+    "headword": "identical",
+    "sublist": 7,
+    "related": [
+      "identically"
+    ]
+  },
+  {
+    "headword": "ideology",
+    "sublist": 7,
+    "related": [
+      "ideological",
+      "ideologically",
+      "ideologies"
+    ]
+  },
+  {
+    "headword": "infer",
+    "sublist": 7,
+    "related": [
+      "inference",
+      "inferences",
+      "inferred",
+      "inferring",
+      "infers"
+    ]
+  },
+  {
+    "headword": "innovate",
+    "sublist": 7,
+    "related": [
+      "innovated",
+      "innovates",
+      "innovating",
+      "innovation",
+      "innovations",
+      "innovative",
+      "innovator",
+      "innovators"
+    ]
+  },
+  {
+    "headword": "insert",
+    "sublist": 7,
+    "related": [
+      "inserted",
+      "inserting",
+      "insertion",
+      "inserts"
+    ]
+  },
+  {
+    "headword": "intervene",
+    "sublist": 7,
+    "related": [
+      "intervened",
+      "intervenes",
+      "intervening",
+      "intervention",
+      "interventions"
+    ]
+  },
+  {
+    "headword": "isolate",
+    "sublist": 7,
+    "related": [
+      "isolated",
+      "isolates",
+      "isolating",
+      "isolation",
+      "isolationism"
+    ]
+  },
+  {
+    "headword": "media",
+    "sublist": 7,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "mode",
+    "sublist": 7,
+    "related": [
+      "modes"
+    ]
+  },
+  {
+    "headword": "paradigm",
+    "sublist": 7,
+    "related": [
+      "paradigms"
+    ]
+  },
+  {
+    "headword": "phenomenon",
+    "sublist": 7,
+    "related": [
+      "phenomena",
+      "phenomenal"
+    ]
+  },
+  {
+    "headword": "priority",
+    "sublist": 7,
+    "related": [
+      "priorities",
+      "prioritisation",
+      "prioritise",
+      "prioritised",
+      "prioritises",
+      "prioritising",
+      "prioritization",
+      "prioritize",
+      "prioritized",
+      "prioritizes",
+      "prioritizing"
+    ]
+  },
+  {
+    "headword": "prohibit",
+    "sublist": 7,
+    "related": [
+      "prohibited",
+      "prohibiting",
+      "prohibition",
+      "prohibitions",
+      "prohibitive",
+      "prohibits"
+    ]
+  },
+  {
+    "headword": "publication",
+    "sublist": 7,
+    "related": [
+      "publications"
+    ]
+  },
+  {
+    "headword": "quote",
+    "sublist": 7,
+    "related": [
+      "quotation",
+      "quotations",
+      "quoted",
+      "quotes",
+      "quoting"
+    ]
+  },
+  {
+    "headword": "release",
+    "sublist": 7,
+    "related": [
+      "released",
+      "releases",
+      "releasing"
+    ]
+  },
+  {
+    "headword": "reverse",
+    "sublist": 7,
+    "related": [
+      "irreversible",
+      "reversal",
+      "reversals",
+      "reversed",
+      "reverses",
+      "reversible",
+      "reversing"
+    ]
+  },
+  {
+    "headword": "simulate",
+    "sublist": 7,
+    "related": [
+      "simulated",
+      "simulates",
+      "simulating",
+      "simulation"
+    ]
+  },
+  {
+    "headword": "sole",
+    "sublist": 7,
+    "related": [
+      "solely"
+    ]
+  },
+  {
+    "headword": "somewhat",
+    "sublist": 7,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "submit",
+    "sublist": 7,
+    "related": [
+      "submission",
+      "submissions",
+      "submits",
+      "submitted",
+      "submitting"
+    ]
+  },
+  {
+    "headword": "successor",
+    "sublist": 7,
+    "related": [
+      "succession",
+      "successions",
+      "successive",
+      "successively",
+      "successors"
+    ]
+  },
+  {
+    "headword": "survive",
+    "sublist": 7,
+    "related": [
+      "survival",
+      "survived",
+      "survives",
+      "surviving",
+      "survivor",
+      "survivors"
+    ]
+  },
+  {
+    "headword": "thesis",
+    "sublist": 7,
+    "related": [
+      "theses"
+    ]
+  },
+  {
+    "headword": "topic",
+    "sublist": 7,
+    "related": [
+      "topical",
+      "topics"
+    ]
+  },
+  {
+    "headword": "transmit",
+    "sublist": 7,
+    "related": [
+      "transmission",
+      "transmissions",
+      "transmits",
+      "transmitted",
+      "transmitting"
+    ]
+  },
+  {
+    "headword": "ultimate",
+    "sublist": 7,
+    "related": [
+      "ultimately"
+    ]
+  },
+  {
+    "headword": "unique",
+    "sublist": 7,
+    "related": [
+      "uniquely",
+      "uniqueness"
+    ]
+  },
+  {
+    "headword": "visible",
+    "sublist": 7,
+    "related": [
+      "invisibility",
+      "invisible",
+      "visibility",
+      "visibly"
+    ]
+  },
+  {
+    "headword": "voluntary",
+    "sublist": 7,
+    "related": [
+      "voluntarily",
+      "volunteer",
+      "volunteered",
+      "volunteering",
+      "volunteers"
+    ]
+  },
+  {
+    "headword": "abandon",
+    "sublist": 8,
+    "related": [
+      "abandoned",
+      "abandoning",
+      "abandonment",
+      "abandons"
+    ]
+  },
+  {
+    "headword": "accompany",
+    "sublist": 8,
+    "related": [
+      "accompanied",
+      "accompanies",
+      "accompaniment",
+      "accompanying",
+      "unaccompanied"
+    ]
+  },
+  {
+    "headword": "accumulate",
+    "sublist": 8,
+    "related": [
+      "accumulated",
+      "accumulates",
+      "accumulating",
+      "accumulation"
+    ]
+  },
+  {
+    "headword": "ambiguous",
+    "sublist": 8,
+    "related": [
+      "ambiguities",
+      "ambiguity",
+      "unambiguous",
+      "unambiguously"
+    ]
+  },
+  {
+    "headword": "append",
+    "sublist": 8,
+    "related": [
+      "appended",
+      "appendices",
+      "appending",
+      "appendix",
+      "appendixes",
+      "appends"
+    ]
+  },
+  {
+    "headword": "appreciate",
+    "sublist": 8,
+    "related": [
+      "appreciable",
+      "appreciably",
+      "appreciated",
+      "appreciates",
+      "appreciating",
+      "appreciation",
+      "unappreciated"
+    ]
+  },
+  {
+    "headword": "arbitrary",
+    "sublist": 8,
+    "related": [
+      "arbitrarily",
+      "arbitrariness"
+    ]
+  },
+  {
+    "headword": "automate",
+    "sublist": 8,
+    "related": [
+      "automated",
+      "automates",
+      "automatic",
+      "automatically",
+      "automating",
+      "automation"
+    ]
+  },
+  {
+    "headword": "bias",
+    "sublist": 8,
+    "related": [
+      "biased",
+      "biases",
+      "biasing",
+      "unbiased"
+    ]
+  },
+  {
+    "headword": "chart",
+    "sublist": 8,
+    "related": [
+      "charted",
+      "charting",
+      "charts",
+      "uncharted"
+    ]
+  },
+  {
+    "headword": "clarify",
+    "sublist": 8,
+    "related": [
+      "clarification",
+      "clarified",
+      "clarifies",
+      "clarifying",
+      "clarity"
+    ]
+  },
+  {
+    "headword": "commodity",
+    "sublist": 8,
+    "related": [
+      "commodities"
+    ]
+  },
+  {
+    "headword": "complement",
+    "sublist": 8,
+    "related": [
+      "complementary",
+      "complemented",
+      "complementing",
+      "complements"
+    ]
+  },
+  {
+    "headword": "conform",
+    "sublist": 8,
+    "related": [
+      "conformability",
+      "conformable",
+      "conformance",
+      "conformation",
+      "conformed",
+      "conforming",
+      "conformist",
+      "conformists",
+      "conformity",
+      "conforms",
+      "non-conformist",
+      "non-conformists",
+      "non-conformity",
+      "nonconformist",
+      "nonconformists",
+      "nonconformity"
+    ]
+  },
+  {
+    "headword": "contemporary",
+    "sublist": 8,
+    "related": [
+      "contemporaries"
+    ]
+  },
+  {
+    "headword": "contradict",
+    "sublist": 8,
+    "related": [
+      "contradicted",
+      "contradicting",
+      "contradiction",
+      "contradictions",
+      "contradictory",
+      "contradicts"
+    ]
+  },
+  {
+    "headword": "crucial",
+    "sublist": 8,
+    "related": [
+      "crucially"
+    ]
+  },
+  {
+    "headword": "currency",
+    "sublist": 8,
+    "related": [
+      "currencies"
+    ]
+  },
+  {
+    "headword": "denote",
+    "sublist": 8,
+    "related": [
+      "denotation",
+      "denotations",
+      "denoted",
+      "denotes",
+      "denoting"
+    ]
+  },
+  {
+    "headword": "detect",
+    "sublist": 8,
+    "related": [
+      "detectable",
+      "detected",
+      "detecting",
+      "detection",
+      "detective",
+      "detectives",
+      "detector",
+      "detectors",
+      "detects"
+    ]
+  },
+  {
+    "headword": "deviate",
+    "sublist": 8,
+    "related": [
+      "deviated",
+      "deviates",
+      "deviating",
+      "deviation",
+      "deviations"
+    ]
+  },
+  {
+    "headword": "displace",
+    "sublist": 8,
+    "related": [
+      "displaced",
+      "displacement",
+      "displaces",
+      "displacing"
+    ]
+  },
+  {
+    "headword": "drama",
+    "sublist": 8,
+    "related": [
+      "dramas",
+      "dramatic",
+      "dramatically",
+      "dramatisation",
+      "dramatisations",
+      "dramatise",
+      "dramatised",
+      "dramatises",
+      "dramatising",
+      "dramatist",
+      "dramatists",
+      "dramatization",
+      "dramatizations",
+      "dramatize",
+      "dramatized",
+      "dramatizes",
+      "dramatizing"
+    ]
+  },
+  {
+    "headword": "eventual",
+    "sublist": 8,
+    "related": [
+      "eventuality",
+      "eventually"
+    ]
+  },
+  {
+    "headword": "exhibit",
+    "sublist": 8,
+    "related": [
+      "exhibited",
+      "exhibiting",
+      "exhibition",
+      "exhibitions",
+      "exhibits"
+    ]
+  },
+  {
+    "headword": "exploit",
+    "sublist": 8,
+    "related": [
+      "exploitation",
+      "exploited",
+      "exploiting",
+      "exploits"
+    ]
+  },
+  {
+    "headword": "fluctuate",
+    "sublist": 8,
+    "related": [
+      "fluctuated",
+      "fluctuates",
+      "fluctuating",
+      "fluctuation",
+      "fluctuations"
+    ]
+  },
+  {
+    "headword": "guideline",
+    "sublist": 8,
+    "related": [
+      "guidelines"
+    ]
+  },
+  {
+    "headword": "highlight",
+    "sublist": 8,
+    "related": [
+      "highlighted",
+      "highlighting",
+      "highlights"
+    ]
+  },
+  {
+    "headword": "implicit",
+    "sublist": 8,
+    "related": [
+      "implicitly"
+    ]
+  },
+  {
+    "headword": "induce",
+    "sublist": 8,
+    "related": [
+      "induced",
+      "induces",
+      "inducing",
+      "induction"
+    ]
+  },
+  {
+    "headword": "inevitable",
+    "sublist": 8,
+    "related": [
+      "inevitability",
+      "inevitably"
+    ]
+  },
+  {
+    "headword": "infrastructure",
+    "sublist": 8,
+    "related": [
+      "infrastructures"
+    ]
+  },
+  {
+    "headword": "inspect",
+    "sublist": 8,
+    "related": [
+      "inspected",
+      "inspecting",
+      "inspection",
+      "inspections",
+      "inspector",
+      "inspectors",
+      "inspects"
+    ]
+  },
+  {
+    "headword": "intense",
+    "sublist": 8,
+    "related": [
+      "intensely",
+      "intenseness",
+      "intensification",
+      "intensified",
+      "intensifies",
+      "intensify",
+      "intensifying",
+      "intension",
+      "intensity",
+      "intensive",
+      "intensively"
+    ]
+  },
+  {
+    "headword": "manipulate",
+    "sublist": 8,
+    "related": [
+      "manipulated",
+      "manipulates",
+      "manipulating",
+      "manipulation",
+      "manipulations",
+      "manipulative"
+    ]
+  },
+  {
+    "headword": "minimise",
+    "sublist": 8,
+    "related": [
+      "minimised",
+      "minimises",
+      "minimising",
+      "minimize",
+      "minimized",
+      "minimizes",
+      "minimizing"
+    ]
+  },
+  {
+    "headword": "nuclear",
+    "sublist": 8,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "offset",
+    "sublist": 8,
+    "related": [
+      "offsets",
+      "offsetting"
+    ]
+  },
+  {
+    "headword": "paragraph",
+    "sublist": 8,
+    "related": [
+      "paragraphing",
+      "paragraphs"
+    ]
+  },
+  {
+    "headword": "plus",
+    "sublist": 8,
+    "related": [
+      "pluses"
+    ]
+  },
+  {
+    "headword": "practitioner",
+    "sublist": 8,
+    "related": [
+      "practitioners"
+    ]
+  },
+  {
+    "headword": "predominant",
+    "sublist": 8,
+    "related": [
+      "predominance",
+      "predominantly",
+      "predominate",
+      "predominated",
+      "predominates",
+      "predominating"
+    ]
+  },
+  {
+    "headword": "prospect",
+    "sublist": 8,
+    "related": [
+      "prospective",
+      "prospects"
+    ]
+  },
+  {
+    "headword": "radical",
+    "sublist": 8,
+    "related": [
+      "radically",
+      "radicals"
+    ]
+  },
+  {
+    "headword": "random",
+    "sublist": 8,
+    "related": [
+      "randomly",
+      "randomness"
+    ]
+  },
+  {
+    "headword": "reinforce",
+    "sublist": 8,
+    "related": [
+      "reinforced",
+      "reinforcement",
+      "reinforcements",
+      "reinforces",
+      "reinforcing"
+    ]
+  },
+  {
+    "headword": "restore",
+    "sublist": 8,
+    "related": [
+      "restoration",
+      "restored",
+      "restores",
+      "restoring"
+    ]
+  },
+  {
+    "headword": "revise",
+    "sublist": 8,
+    "related": [
+      "revised",
+      "revises",
+      "revising",
+      "revision",
+      "revisions"
+    ]
+  },
+  {
+    "headword": "schedule",
+    "sublist": 8,
+    "related": [
+      "reschedule",
+      "rescheduled",
+      "reschedules",
+      "rescheduling",
+      "scheduled",
+      "schedules",
+      "scheduling",
+      "unscheduled"
+    ]
+  },
+  {
+    "headword": "tense",
+    "sublist": 8,
+    "related": [
+      "tensely",
+      "tenser",
+      "tensest",
+      "tension",
+      "tensions"
+    ]
+  },
+  {
+    "headword": "terminate",
+    "sublist": 8,
+    "related": [
+      "terminal",
+      "terminals",
+      "terminated",
+      "terminates",
+      "terminating",
+      "termination",
+      "terminations"
+    ]
+  },
+  {
+    "headword": "theme",
+    "sublist": 8,
+    "related": [
+      "thematic",
+      "thematically",
+      "themes"
+    ]
+  },
+  {
+    "headword": "thereby",
+    "sublist": 8,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "uniform",
+    "sublist": 8,
+    "related": [
+      "uniformity",
+      "uniformly"
+    ]
+  },
+  {
+    "headword": "vehicle",
+    "sublist": 8,
+    "related": [
+      "vehicles"
+    ]
+  },
+  {
+    "headword": "via",
+    "sublist": 8,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "virtual",
+    "sublist": 8,
+    "related": [
+      "virtually"
+    ]
+  },
+  {
+    "headword": "visual",
+    "sublist": 8,
+    "related": [
+      "visualisation",
+      "visualise",
+      "visualised",
+      "visualising",
+      "visualization",
+      "visualize",
+      "visualized",
+      "visualizing",
+      "visually"
+    ]
+  },
+  {
+    "headword": "widespread",
+    "sublist": 8,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "accommodate",
+    "sublist": 9,
+    "related": [
+      "accommodated",
+      "accommodates",
+      "accommodating",
+      "accommodation"
+    ]
+  },
+  {
+    "headword": "analogy",
+    "sublist": 9,
+    "related": [
+      "analogies",
+      "analogous"
+    ]
+  },
+  {
+    "headword": "anticipate",
+    "sublist": 9,
+    "related": [
+      "anticipated",
+      "anticipates",
+      "anticipating",
+      "anticipation",
+      "unanticipated"
+    ]
+  },
+  {
+    "headword": "assure",
+    "sublist": 9,
+    "related": [
+      "assurance",
+      "assurances",
+      "assured",
+      "assuredly",
+      "assures",
+      "assuring"
+    ]
+  },
+  {
+    "headword": "attain",
+    "sublist": 9,
+    "related": [
+      "attainable",
+      "attained",
+      "attaining",
+      "attainment",
+      "attainments",
+      "attains",
+      "unattainable"
+    ]
+  },
+  {
+    "headword": "behalf",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "bulk",
+    "sublist": 9,
+    "related": [
+      "bulky"
+    ]
+  },
+  {
+    "headword": "cease",
+    "sublist": 9,
+    "related": [
+      "ceased",
+      "ceaseless",
+      "ceases",
+      "ceasing"
+    ]
+  },
+  {
+    "headword": "coherent",
+    "sublist": 9,
+    "related": [
+      "coherence",
+      "coherently",
+      "incoherent",
+      "incoherently"
+    ]
+  },
+  {
+    "headword": "coincide",
+    "sublist": 9,
+    "related": [
+      "coincided",
+      "coincidence",
+      "coincidences",
+      "coincident",
+      "coincidental",
+      "coincides",
+      "coinciding"
+    ]
+  },
+  {
+    "headword": "commence",
+    "sublist": 9,
+    "related": [
+      "commenced",
+      "commencement",
+      "commences",
+      "commencing",
+      "recommenced",
+      "recommences",
+      "recommencing"
+    ]
+  },
+  {
+    "headword": "compatible",
+    "sublist": 9,
+    "related": [
+      "compatibility",
+      "incompatibility",
+      "incompatible"
+    ]
+  },
+  {
+    "headword": "concurrent",
+    "sublist": 9,
+    "related": [
+      "concurrently"
+    ]
+  },
+  {
+    "headword": "confine",
+    "sublist": 9,
+    "related": [
+      "confined",
+      "confines",
+      "confining",
+      "unconfined"
+    ]
+  },
+  {
+    "headword": "controversy",
+    "sublist": 9,
+    "related": [
+      "controversial",
+      "controversially",
+      "controversies",
+      "uncontroversial"
+    ]
+  },
+  {
+    "headword": "converse",
+    "sublist": 9,
+    "related": [
+      "conversely"
+    ]
+  },
+  {
+    "headword": "device",
+    "sublist": 9,
+    "related": [
+      "devices"
+    ]
+  },
+  {
+    "headword": "devote",
+    "sublist": 9,
+    "related": [
+      "devoted",
+      "devotedly",
+      "devotes",
+      "devoting",
+      "devotion",
+      "devotions"
+    ]
+  },
+  {
+    "headword": "diminish",
+    "sublist": 9,
+    "related": [
+      "diminished",
+      "diminishes",
+      "diminishing",
+      "diminution",
+      "undiminished"
+    ]
+  },
+  {
+    "headword": "distort",
+    "sublist": 9,
+    "related": [
+      "distorted",
+      "distorting",
+      "distortion",
+      "distortions",
+      "distorts"
+    ]
+  },
+  {
+    "headword": "duration",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "erode",
+    "sublist": 9,
+    "related": [
+      "eroded",
+      "erodes",
+      "eroding",
+      "erosion"
+    ]
+  },
+  {
+    "headword": "ethic",
+    "sublist": 9,
+    "related": [
+      "ethical",
+      "ethically",
+      "ethics",
+      "unethical"
+    ]
+  },
+  {
+    "headword": "format",
+    "sublist": 9,
+    "related": [
+      "formats",
+      "formatted",
+      "formatting"
+    ]
+  },
+  {
+    "headword": "found",
+    "sublist": 9,
+    "related": [
+      "founded",
+      "founder",
+      "founders",
+      "founding",
+      "unfounded"
+    ]
+  },
+  {
+    "headword": "inherent",
+    "sublist": 9,
+    "related": [
+      "inherently"
+    ]
+  },
+  {
+    "headword": "insight",
+    "sublist": 9,
+    "related": [
+      "insightful",
+      "insights"
+    ]
+  },
+  {
+    "headword": "integral",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "intermediate",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "manual",
+    "sublist": 9,
+    "related": [
+      "manually",
+      "manuals"
+    ]
+  },
+  {
+    "headword": "mature",
+    "sublist": 9,
+    "related": [
+      "immature",
+      "immaturity",
+      "maturation",
+      "maturational",
+      "matured",
+      "matures",
+      "maturing",
+      "maturity"
+    ]
+  },
+  {
+    "headword": "mediate",
+    "sublist": 9,
+    "related": [
+      "mediated",
+      "mediates",
+      "mediating",
+      "mediation"
+    ]
+  },
+  {
+    "headword": "medium",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "military",
+    "sublist": 9,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "minimal",
+    "sublist": 9,
+    "related": [
+      "minimalisation",
+      "minimalise",
+      "minimalised",
+      "minimalises",
+      "minimalising",
+      "minimalist",
+      "minimalistic",
+      "minimalists",
+      "minimalization",
+      "minimalize",
+      "minimalized",
+      "minimalizes",
+      "minimalizing",
+      "minimally"
+    ]
+  },
+  {
+    "headword": "mutual",
+    "sublist": 9,
+    "related": [
+      "mutually"
+    ]
+  },
+  {
+    "headword": "norm",
+    "sublist": 9,
+    "related": [
+      "norms"
+    ]
+  },
+  {
+    "headword": "overlap",
+    "sublist": 9,
+    "related": [
+      "overlapped",
+      "overlapping",
+      "overlaps"
+    ]
+  },
+  {
+    "headword": "passive",
+    "sublist": 9,
+    "related": [
+      "passively",
+      "passivity"
+    ]
+  },
+  {
+    "headword": "portion",
+    "sublist": 9,
+    "related": [
+      "portions"
+    ]
+  },
+  {
+    "headword": "preliminary",
+    "sublist": 9,
+    "related": [
+      "preliminaries"
+    ]
+  },
+  {
+    "headword": "protocol",
+    "sublist": 9,
+    "related": [
+      "protocols"
+    ]
+  },
+  {
+    "headword": "qualitative",
+    "sublist": 9,
+    "related": [
+      "qualitatively"
+    ]
+  },
+  {
+    "headword": "refine",
+    "sublist": 9,
+    "related": [
+      "refined",
+      "refinement",
+      "refinements",
+      "refines",
+      "refining"
+    ]
+  },
+  {
+    "headword": "relax",
+    "sublist": 9,
+    "related": [
+      "relaxation",
+      "relaxed",
+      "relaxes",
+      "relaxing"
+    ]
+  },
+  {
+    "headword": "restrain",
+    "sublist": 9,
+    "related": [
+      "restrained",
+      "restraining",
+      "restrains",
+      "restraint",
+      "restraints",
+      "unrestrained"
+    ]
+  },
+  {
+    "headword": "revolution",
+    "sublist": 9,
+    "related": [
+      "revolutionaries",
+      "revolutionary",
+      "revolutionise",
+      "revolutionised",
+      "revolutionises",
+      "revolutionising",
+      "revolutionist",
+      "revolutionists",
+      "revolutionize",
+      "revolutionized",
+      "revolutionizes",
+      "revolutionizing",
+      "revolutions"
+    ]
+  },
+  {
+    "headword": "rigid",
+    "sublist": 9,
+    "related": [
+      "rigidities",
+      "rigidity",
+      "rigidly"
+    ]
+  },
+  {
+    "headword": "route",
+    "sublist": 9,
+    "related": [
+      "routed",
+      "routes",
+      "routing"
+    ]
+  },
+  {
+    "headword": "scenario",
+    "sublist": 9,
+    "related": [
+      "scenarios"
+    ]
+  },
+  {
+    "headword": "sphere",
+    "sublist": 9,
+    "related": [
+      "spheres",
+      "spherical",
+      "spherically"
+    ]
+  },
+  {
+    "headword": "subordinate",
+    "sublist": 9,
+    "related": [
+      "subordinates",
+      "subordination"
+    ]
+  },
+  {
+    "headword": "supplement",
+    "sublist": 9,
+    "related": [
+      "supplementary",
+      "supplemented",
+      "supplementing",
+      "supplements"
+    ]
+  },
+  {
+    "headword": "suspend",
+    "sublist": 9,
+    "related": [
+      "suspended",
+      "suspending",
+      "suspends",
+      "suspension"
+    ]
+  },
+  {
+    "headword": "team",
+    "sublist": 9,
+    "related": [
+      "teamed",
+      "teaming",
+      "teams"
+    ]
+  },
+  {
+    "headword": "temporary",
+    "sublist": 9,
+    "related": [
+      "temporarily"
+    ]
+  },
+  {
+    "headword": "trigger",
+    "sublist": 9,
+    "related": [
+      "triggered",
+      "triggering",
+      "triggers"
+    ]
+  },
+  {
+    "headword": "unify",
+    "sublist": 9,
+    "related": [
+      "unification",
+      "unified",
+      "unifies",
+      "unifying"
+    ]
+  },
+  {
+    "headword": "violate",
+    "sublist": 9,
+    "related": [
+      "violated",
+      "violates",
+      "violating",
+      "violation",
+      "violations"
+    ]
+  },
+  {
+    "headword": "vision",
+    "sublist": 9,
+    "related": [
+      "visions"
+    ]
+  },
+  {
+    "headword": "adjacent",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "albeit",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "assemble",
+    "sublist": 10,
+    "related": [
+      "assembled",
+      "assembles",
+      "assemblies",
+      "assembling",
+      "assembly"
+    ]
+  },
+  {
+    "headword": "collapse",
+    "sublist": 10,
+    "related": [
+      "collapsed",
+      "collapses",
+      "collapsible",
+      "collapsing"
+    ]
+  },
+  {
+    "headword": "colleague",
+    "sublist": 10,
+    "related": [
+      "colleagues"
+    ]
+  },
+  {
+    "headword": "compile",
+    "sublist": 10,
+    "related": [
+      "compilation",
+      "compilations",
+      "compiled",
+      "compiles",
+      "compiling"
+    ]
+  },
+  {
+    "headword": "conceive",
+    "sublist": 10,
+    "related": [
+      "conceivable",
+      "conceivably",
+      "conceived",
+      "conceives",
+      "conceiving",
+      "inconceivable",
+      "inconceivably"
+    ]
+  },
+  {
+    "headword": "convince",
+    "sublist": 10,
+    "related": [
+      "convinced",
+      "convinces",
+      "convincing",
+      "convincingly",
+      "unconvinced"
+    ]
+  },
+  {
+    "headword": "depress",
+    "sublist": 10,
+    "related": [
+      "depressed",
+      "depresses",
+      "depressing",
+      "depression"
+    ]
+  },
+  {
+    "headword": "encounter",
+    "sublist": 10,
+    "related": [
+      "encountered",
+      "encountering",
+      "encounters"
+    ]
+  },
+  {
+    "headword": "enormous",
+    "sublist": 10,
+    "related": [
+      "enormity",
+      "enormously"
+    ]
+  },
+  {
+    "headword": "forthcoming",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "incline",
+    "sublist": 10,
+    "related": [
+      "inclination",
+      "inclinations",
+      "inclined",
+      "inclines",
+      "inclining"
+    ]
+  },
+  {
+    "headword": "integrity",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "intrinsic",
+    "sublist": 10,
+    "related": [
+      "intrinsically"
+    ]
+  },
+  {
+    "headword": "invoke",
+    "sublist": 10,
+    "related": [
+      "invoked",
+      "invokes",
+      "invoking"
+    ]
+  },
+  {
+    "headword": "levy",
+    "sublist": 10,
+    "related": [
+      "levies"
+    ]
+  },
+  {
+    "headword": "likewise",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "nonetheless",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "notwithstanding",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "odd",
+    "sublist": 10,
+    "related": [
+      "odds"
+    ]
+  },
+  {
+    "headword": "ongoing",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "panel",
+    "sublist": 10,
+    "related": [
+      "panelled",
+      "panelling",
+      "panels"
+    ]
+  },
+  {
+    "headword": "persist",
+    "sublist": 10,
+    "related": [
+      "persisted",
+      "persistence",
+      "persistent",
+      "persistently",
+      "persisting",
+      "persists"
+    ]
+  },
+  {
+    "headword": "pose",
+    "sublist": 10,
+    "related": [
+      "posed",
+      "poses",
+      "posing"
+    ]
+  },
+  {
+    "headword": "reluctance",
+    "sublist": 10,
+    "related": [
+      "reluctant",
+      "reluctantly"
+    ]
+  },
+  {
+    "headword": "so-called",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "straightforward",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  },
+  {
+    "headword": "undergo",
+    "sublist": 10,
+    "related": [
+      "undergoes",
+      "undergoing",
+      "undergone",
+      "underwent"
+    ]
+  },
+  {
+    "headword": "whereby",
+    "sublist": 10,
+    "related": [
+      ""
+    ]
+  }
+]
