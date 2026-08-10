@@ -1,0 +1,6 @@
+# Generated audio can be large; it is rebuilt from caches on demand.
+media/
+# Big combined deck is regenerated; per-sublist decks are committed instead.
+AWL_RU_ZH.apkg
+*.tmp
+__pycache__/

@@ -1,0 +1,7 @@
+genanki>=0.13.0
+deep-translator>=1.11.0
+gTTS>=2.5.0
+nltk>=3.8
+wordfreq>=3.0.0
+beautifulsoup4>=4.12
+lxml>=4.9
